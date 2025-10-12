@@ -1,4 +1,4 @@
-# (ICLR 2024 Oral) Mixed-Type Tabular Data Synthesis with Score-based Diffusion in Latent Space 
+# A Moriah-compatible fork of TabSyn
 
 <p align="center">
   <!-- <a href="https://github.com/hengruizhang98/tabsyn/blob/main/LICENSE">
@@ -20,44 +20,6 @@ This repository contains the implementation of the paper:
 > The Twelfth International Conference on Learning Representations (ICLR 2024, Oral Presentation)<br>
 > Hengrui Zhang, Jiani Zhang, Balasubramaniam Srinivasan, Zhengyuan Shen, Xiao Qin, Christos Faloutsos, Huzefa Rangwala, George Karypis <br>
 
-## Latest Update
-- [2024-06-20]: Disable loading irrelvent packages when training individual models; update the instruction for DCR experiements; fix minor bugs in TabSyn's training script.
-- [2024-05-14]: Add demo code for missing value imputation for the target column with a well trained TabSyn.
-
-## Introduction
-
-<div align="center">
-  <img src="images/tabsyn_model.jpg" alt="Model Logo" width="800" style="margin-left:'auto' margin-right:'auto' display:'block'"/>
-  <br>
-  <br>
-</div>
-TabSyn is a deep generative model for the synthesis of mixed-type tabular data (i.e., continuous/numerical and discrete/categorical). Tabsyn consists of two parts: 1) A Variational AutoEncoder (VAE) that encodes mixed-type of tabular data into the continuous latent space. 2) A score-based diffusion model for learning the densities of the latent embeddings.
-
-###### TabSyn achieves SOTA performance in recovering the ground-truth distribution of tabular data (under five distinct metrics), and has a significantly faster sampling speed than previous diffusion-based methods.
-<div style="display:flex; justify-content:center;">
-    <img src="images/radar.jpg" style="width:350px; margin-right:50px;">
-    <img src="images/nfe1.jpg" style="width:300px;">
-</div>
-
-###### Visualizations of density estimation for signle column and pair-wise correlation.
-<div align="center">
-  <img src="images/density.jpg" alt="OLMo Logo" width="800" style="margin-left:'auto' margin-right:'auto' display:'block'"/>
-  <br>
-  <br>
-</div>
-<div align="center">
-  <img src="images/heat_map.jpg" alt="OLMo Logo" width="800" style="margin-left:'auto' margin-right:'auto' display:'block'"/>
-  <br>
-  <br>
-</div>
-
-<!-- <div align="center">
-  <img src="images/radar.jpg" alt="OLMo Logo" width="800" style="margin-left:'auto' margin-right:'auto' display:'block'"/>
-  <br>
-  <br>
-</div> -->
-
-
 
 
 ## Installing Dependencies
@@ -67,8 +29,10 @@ Python version: 3.10
 Create environment
 
 ```
-conda create -n tabsyn python=3.10
-conda activate tabsyn
+srun --mem=10G --pty bash 
+source ~/.zshrc
+micromamba create -n tabsyn python=3.10
+micromamba activate tabsyn
 ```
 
 Install pytorch

@@ -117,6 +117,7 @@ def get_args():
 
     # Sampling
     parser.add_argument('--sample_step', type=int, default=2000, help='frequency of sampling')
+    parser.add_argument('--sample_size', type=int, default=2000, help='number of samples to generate')
 
     # Continuous diffusion model
     parser.add_argument('--mean_type', type=str, default='epsilon', choices=['xprev', 'xstart', 'epsilon'], help='predict variable')

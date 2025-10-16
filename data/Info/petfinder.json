@@ -1,5 +1,5 @@
 {
-    "name": "petfinder",
+    "name": "petfinder_tab",
     "task_type": "binclass", 
     "header": "infer",
     "column_names": [

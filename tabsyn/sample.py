@@ -68,7 +68,6 @@ if __name__ == '__main__':
     parser.add_argument('--gpu', type=int, default=0, help='GPU index.')
     parser.add_argument('--epoch', type=int, default=None, help='Epoch.')
     parser.add_argument('--steps', type=int, default=None, help='Number of function evaluations.')
-    # parser.add_argument('--sample_size', type=int, default=2000, help='Number of samples to generate.')
 
     args = parser.parse_args()
 

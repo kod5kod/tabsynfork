@@ -1,0 +1,31 @@
+{
+    "name": "petfinder_tab",
+    "task_type": "binclass", 
+    "header": "infer",
+    "column_names": [
+        "Type",
+        "Gender",
+        "Breed1",
+        "Color1",
+        "Color2",
+        "State",
+        "Age",
+        "MaturitySize",
+        "FurLength",
+        "Vaccinated",
+        "Dewormed",
+        "Sterilized",
+        "Health",
+        "Quantity",
+        "Fee",
+        "VideoAmt",
+        "PhotoAmt",
+        "is_adopted"
+    ],
+    "num_col_idx": [6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16],
+    "cat_col_idx": [0, 1, 2, 3, 4, 5],
+    "target_col_idx": [17],
+    "file_type": "csv",
+    "data_path": "/sci/labs/yuvalb/lee.carlin/datasets/petfinder_tab/petfinder_tab_processed_train.csv",
+    "test_path": null
+}

@@ -26,6 +26,7 @@
     "cat_col_idx": [0, 1, 2, 3, 4, 5],
     "target_col_idx": [17],
     "file_type": "csv",
-    "data_path": "/sci/labs/yuvalb/lee.carlin/datasets/petfinder_tab/petfinder_tab_processed_train.csv",
-    "test_path": "/sci/labs/yuvalb/lee.carlin/datasets/petfinder_tab/petfinder_tab_processed_test.csv"
+    "data_path": "/sci/labs/yuvalb/lee.carlin/repos/tabsynfork/data/petfinder_tab/petfinder_tab_processed_train.csv",
+    "test_path": null
+
 }

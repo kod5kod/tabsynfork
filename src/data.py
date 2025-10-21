@@ -312,8 +312,8 @@ def cat_encode(
 
     elif encoding == 'one-hot':
         ohe = sklearn.preprocessing.OneHotEncoder(
-            handle_unknown='ignore', dtype=np.float32 # type: ignore[code]
-        ) # lee: remove  sparse=False,
+            handle_unknown='ignore', dtype=np.float32, sparse_output=False # type: ignore[code]
+        ) # lee: fix  sparse=False,
         encoder = make_pipeline(ohe)
 
         # encoder.steps.append(('ohe', ohe))

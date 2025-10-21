@@ -142,6 +142,10 @@ def main(args):
     model_con.eval()
     model_dis.eval()
     
+    print("train_con_data.shape",train_con_data.shape)
+    print("train_dis_data.shape",train_dis_data.shape)
+    print("con_idx,dis_idx",len(con_idx),len(dis_idx))
+    
     print(f"Start sampling")
     start_time = time.time()
     with torch.no_grad():

@@ -11,8 +11,8 @@ micromamba activate tabsyn
 
 
 
-python3 /sci/labs/yuvalb/lee.carlin/repos/tabsynfork/main.py --dataname petfinder_tab --method codi --mode train
-python3 /sci/labs/yuvalb/lee.carlin/repos/tabsynfork/main.py --dataname petfinder_tab --method codi --mode sample --sample_size 2249   
+python3 /sci/labs/yuvalb/lee.carlin/repos/tabsynfork/main.py --dataname petfinder_tab --method great --mode train
+python3 /sci/labs/yuvalb/lee.carlin/repos/tabsynfork/main.py --dataname petfinder_tab --method great --mode sample --sample_size 2249   
 
 # python3 /sci/labs/yuvalb/lee.carlin/repos/tabsynfork/main.py --dataname petfinder_tab --method vae --mode train
 # python3 /sci/labs/yuvalb/lee.carlin/repos/tabsynfork/main.py --dataname petfinder_tab --method tabsyn --mode train

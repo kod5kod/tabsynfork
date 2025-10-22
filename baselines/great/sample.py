@@ -44,7 +44,7 @@ def main(args):
     great._update_conditional_information(df, conditional_col=None)
 
     
-    n_samples = info['train_num']
+    n_samples = args.sample_size
 
     samples = great.sample(n_samples, k=100, device=args.device)
     samples.head()

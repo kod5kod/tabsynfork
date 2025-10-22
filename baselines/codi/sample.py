@@ -150,7 +150,7 @@ def main(args):
     print(f"Start sampling")
     start_time = time.time()
     with torch.no_grad():
-        x_T_con = torch.randn(train_con_data.shape[0], train_con_data.shape[1]).to(device)
+        x_T_con = torch.randn(sample_size, train_con_data.shape[1]).to(device)
         log_x_T_dis = log_sample_categorical(torch.zeros(train_dis_data.shape, device=device), num_class).to(device)
         x_con, x_dis = sampling_with(x_T_con, log_x_T_dis, net_sampler, trainer_dis, categories, args)
 

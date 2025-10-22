@@ -78,6 +78,7 @@ def main(args):
     curr_dir = os.path.dirname(os.path.abspath(__file__))
     ckpt_dir = f'{curr_dir}/ckpt/{dataname}'
 
+    sample_size = args.sample_size
 
     train, train_con_data, train_dis_data, test, (transformer_con, transformer_dis, meta), con_idx, dis_idx = tabular_dataload.get_dataset(args) 
     _, _, categories, d_numerical = preprocess(dataset_dir, task_type = task_type)

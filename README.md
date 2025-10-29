@@ -152,6 +152,8 @@ For Tabsyn, use the following command for synthesis:
 ```
 python main.py --dataname [NAME_OF_DATASET] --method tabsyn --mode sample --save_path [PATH_TO_SAVE]
 
+python main.py --dataname adult --method tabsyn --mode sample --save_path 
+
 ```
 
 The default save path is "synthetic/[NAME_OF_DATASET]/[METHOD_NAME].csv"

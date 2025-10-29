@@ -1,0 +1,38 @@
+model = "None"
+dataset_name = "None"
+dttm_job_started = "None"
+dttm_model_started = "None"
+
+[column_types]
+catCols = "None"
+intCols = "None"
+floatCols = "None"
+binCols = "None"
+target_col = "None"
+
+[data_splits_shapes]
+data_train = "None"
+data_train_full = "None"
+data_test = "None"
+data_validate = "None"
+
+
+
+[optuna]
+optuna_epochs =  "None"
+optuna_n_trials = "None"
+default_hyperparams = "None"
+hyperparams_space = "None"
+best_hyperparams = "None"
+
+[final_loss]
+
+
+[learning_time]
+
+
+[sample_time]
+
+
+[samples]
+

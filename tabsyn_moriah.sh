@@ -1,5 +1,5 @@
 #!/bin/bash
-#SBATCH --job-name=tabsynfork_gpu_v1
+#SBATCH --job-name=tabsynfork_gpu_v2
 #SBATCH --time=14:30:00
 #SBATCH --mem=256G
 #SBATCH --gres=gpu:l40s:1

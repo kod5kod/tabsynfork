@@ -154,8 +154,8 @@ for model in config["models_list"]:
         synth_df = pl.read_csv(f"synthetic/{config['dataset_name']}/{model}.csv")
         results["samples"][run] = synth_df
 
-        # Save results
-        save_results(results, config["output_path"], dttm_job_started, model)
+    # Save results
+    save_results(results, config["output_path"], dttm_job_started, model)
         
         
     print_section("Done. Exiting.")

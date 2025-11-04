@@ -328,9 +328,9 @@ def data_loader(data_path, dataset_name):
 
     # Placeholder for actual data loading logic
 
-    train_path = os.path.join(data_path, dataset_name, f"{dataset_name}_processed_train.csv")
-    test_path = os.path.join(data_path, dataset_name, f"{dataset_name}_processed_test.csv")
-    valid_path = os.path.join(data_path, dataset_name, f"{dataset_name}_processed_valid.csv")
+    train_path = os.path.join(data_path, dataset_name, f"{dataset_name}_train.csv")
+    test_path = os.path.join(data_path, dataset_name, f"{dataset_name}_test.csv")
+    valid_path = os.path.join(data_path, dataset_name, f"{dataset_name}_valid.csv")
     try:
         train_df = pl.read_csv(train_path)
         test_df = pl.read_csv(test_path)

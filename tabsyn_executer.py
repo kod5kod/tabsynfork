@@ -42,6 +42,12 @@ print(f"""Folder {config["output_path"]} created or already exists.""")
 print_section("Loading Data ")
 
 df_train, df_test, df_valid = data_loader(config["data_path"], config["dataset_name"])
+
+if config["prediction_task"] in ["binary_classification", "multiclass_classification"]:
+        df_train = df_train.with_columns(pl.col(config["target_col_name"]).cast(pl.String))
+        df_test = df_test.with_columns(pl.col(config["target_col_name"]).cast(pl.String))
+        df_valid = df_valid.with_columns(pl.col(config["target_col_name"]).cast(pl.String))
+
 sample_size = df_test.shape[0]
 print(
     "Train data size: ",

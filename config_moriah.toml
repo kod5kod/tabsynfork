@@ -14,6 +14,6 @@ output_path = "/Users/leec/Documents/synthetics"
 local_computer_name = ["leeputer.local","Mac.routerlogin.net"]
 
 [moriah]
-data_path = "/sci/labs/yuvalb/lee.carlin/datasets"
+data_path = "/sci/labs/yuvalb/lee.carlin/tabular_datasets"
 output_path = "/sci/labs/yuvalb/lee.carlin/synthetics"
 moriah_node_types = ["catfish","salmon","goldfish","dogfish","glacier"]

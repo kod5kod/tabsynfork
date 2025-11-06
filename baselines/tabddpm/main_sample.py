@@ -7,6 +7,7 @@ import src
 
 def main(args):
     dataname = args.dataname
+    sample_size = args.sample_size
     device = f'cuda:{args.gpu}'
 
     curr_dir = os.path.dirname(os.path.abspath(__file__))
@@ -25,7 +26,8 @@ def main(args):
     print('START SAMPLING')
     
     sample(
-        num_samples=raw_config['sample']['num_samples'],
+        # num_samples=raw_config['sample']['num_samples'],
+        num_samples = sample_size,
         batch_size=raw_config['sample']['batch_size'],
         disbalance=raw_config['sample'].get('disbalance', None),
         **raw_config['diffusion_params'],

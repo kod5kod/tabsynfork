@@ -4,7 +4,7 @@
 #SBATCH --mem=256G
 #SBATCH --gres=gpu:l40s:1
 #SBATCH --output=/sci/labs/yuvalb/lee.carlin/output/%x_%j.out
-
+#SBATCH --killable 
 
 source  ~/.zshrc
 micromamba activate tabsyn

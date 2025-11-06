@@ -40,7 +40,7 @@ cat_encoding = "__none__"
 y_policy = "default"
 
 [sample]
-num_samples = 2249
+num_samples = 2247
 batch_size = 1000
 seed = 0
 

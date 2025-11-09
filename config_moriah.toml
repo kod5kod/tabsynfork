@@ -3,7 +3,7 @@
 dataset_name = "credit_taiwan" 
 target_col_name = "default"
 prediction_task = "binary_classification"  # ,regression,  multiclass_classification, binary_classification
-models_list = ["tabsyn","tabddpm","codi","great"] # 
+models_list = ["tabddpm","codi","great"] # ["tabsyn","tabddpm","codi","great"]
 runs = ['A','B','C']
 date = "20251103"  # yyyymmdd
 

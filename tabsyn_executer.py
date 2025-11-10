@@ -161,7 +161,7 @@ for model in config["models_list"]:
         results["samples"][run] = synth_df
 
     # Save results
-    save_results(results, config["output_path"], dttm_job_started, model)
+    save_results(results, config["output_path"], f"{config['dataset_name']}_{dttm_job_started}", model)
         
         
     print_section("Done. Exiting.")

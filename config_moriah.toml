@@ -1,11 +1,11 @@
 
 
-dataset_name = "petfinder_tab" 
-target_col_name = "is_adopted"
+dataset_name = "credit_taiwan" 
+target_col_name = "default"
 prediction_task = "binary_classification"  # ,regression,  multiclass_classification, binary_classification
 models_list = ["tabsyn","tabddpm","codi","great"] # ["tabsyn","tabddpm","codi","great"]
 runs = ['A','B','C']
-date = "20251112"  # yyyymmdd
+date = "20251113"  # yyyymmdd
 
 
 [local]
@@ -17,3 +17,5 @@ local_computer_name = ["leeputer.local","Mac.routerlogin.net"]
 data_path = "/sci/labs/yuvalb/lee.carlin/tabular_datasets"
 output_path = "/sci/labs/yuvalb/lee.carlin/synthetics"
 moriah_node_types = ["catfish","salmon","goldfish","dogfish","glacier"]
+
+## petfinder_tab (is_adopted), credit_taiwan (default)

@@ -6,6 +6,9 @@
 #SBATCH --output=/sci/labs/yuvalb/lee.carlin/output/%x_%j.out
 #SBATCH --killable 
 
+source /etc/profile.d/huji-lmod.sh
+module load nvidia
+
 source  ~/.zshrc
 micromamba activate tabsyn
 

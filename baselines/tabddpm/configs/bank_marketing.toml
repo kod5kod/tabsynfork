@@ -1,9 +1,9 @@
-parent_dir = "configs/petfinder_tab"
-model_save_path = "ckpt/petfinder_tab"
-sample_save_path = "sampled/petfinder_tab"
-real_data_path = "data/petfinder_tab"
+parent_dir = "configs/bank_marketing"
+model_save_path = "ckpt/bank_marketing"
+sample_save_path = "sampled/bank_marketing"
+real_data_path = "data/bank_marketing"
 
-num_numerical_features = 11
+num_numerical_features = 7
 model_type = "mlp"
 task_type = "binclass"
 
@@ -26,7 +26,7 @@ gaussian_loss_type = "mse"
 
 [train.main]
 steps = 100000
-lr = 0.001809824563637657
+lr = 0.00181
 weight_decay = 5e-4
 batch_size = 4096
 
@@ -40,7 +40,7 @@ cat_encoding = "__none__"
 y_policy = "default"
 
 [sample]
-num_samples = 2247
+num_samples = 6479
 batch_size = 1000
 seed = 0
 

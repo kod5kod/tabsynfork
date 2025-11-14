@@ -1,7 +1,7 @@
 
 
-dataset_name = "credit_taiwan" 
-target_col_name = "default"
+dataset_name = "bank_marketing" 
+target_col_name = "y"
 prediction_task = "binary_classification"  # ,regression,  multiclass_classification, binary_classification
 models_list = ["tabsyn","tabddpm","codi","great"] # ["tabsyn","tabddpm","codi","great"]
 runs = ['A','B','C']

@@ -1,0 +1,1050 @@
+Type,Gender,Breed1,Color1,Color2,State,Age,MaturitySize,FurLength,Vaccinated,Dewormed,Sterilized,Health,Quantity,Fee,VideoAmt,PhotoAmt,is_adopted
+Dog,Female,Yellow Labrador Retriever,Black,Brown,Selangor,2.0,2.0,1.0,3.0,3.0,2.0,1.0,1.0,0.0,0.0,4.0,1
+Dog,Female,Mixed Breed,Yellow,White,Pulau Pinang,12.0,2.0,2.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,3.0,0
+Cat,Male,Domestic Long Hair,Brown,Golden,Selangor,2.0,2.0,2.0,2.0,1.0,2.0,1.0,1.0,0.0,0.0,2.0,1
+Dog,Mixed,Mixed Breed,Black,Brown,Pulau Pinang,11.0,2.0,1.0,3.0,3.0,3.0,1.0,5.0,0.0,0.0,7.0,0
+Dog,Female,Mixed Breed,Cream,NoColor,Selangor,2.0,2.0,2.0,2.0,2.0,2.0,1.0,1.0,150.0,2.0,3.0,1
+Cat,Female,Domestic Short Hair,Black,White,Kuala Lumpur,2.0,1.0,1.0,3.0,3.0,3.0,1.0,1.0,0.0,0.0,5.0,1
+Dog,Female,Mixed Breed,Cream,NoColor,Kuala Lumpur,4.0,1.0,1.0,1.0,1.0,3.0,1.0,1.0,0.0,0.0,5.0,0
+Dog,Female,Mixed Breed,Black,Brown,Pulau Pinang,13.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,5.0,1
+Cat,Male,Domestic Short Hair,Golden,White,Kuala Lumpur,7.0,2.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,1.0,1
+Dog,Female,Mixed Breed,White,NoColor,Melaka,8.0,2.0,3.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,4.0,1
+Dog,Female,Mixed Breed,Black,Brown,Selangor,1.0,1.0,1.0,2.0,2.0,2.0,1.0,6.0,0.0,0.0,5.0,1
+Dog,Female,Mixed Breed,Black,NoColor,Pulau Pinang,2.0,2.0,2.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,1.0,1
+Cat,Male,Domestic Medium Hair,Black,Brown,Kuala Lumpur,7.0,2.0,2.0,2.0,1.0,2.0,1.0,1.0,30.0,0.0,4.0,1
+Cat,Female,Domestic Short Hair,Black,Yellow,Selangor,4.0,2.0,1.0,2.0,2.0,2.0,1.0,3.0,0.0,0.0,7.0,1
+Dog,Male,Mixed Breed,Black,Brown,Johor,7.0,2.0,1.0,1.0,1.0,3.0,1.0,1.0,0.0,0.0,2.0,0
+Dog,Female,Mixed Breed,Brown,NoColor,Selangor,7.0,3.0,2.0,3.0,3.0,3.0,1.0,1.0,0.0,0.0,4.0,0
+Cat,Mixed,Domestic Short Hair,Black,Golden,Kuala Lumpur,1.0,1.0,1.0,2.0,2.0,2.0,1.0,3.0,50.0,0.0,5.0,1
+Dog,Male,Mixed Breed,Black,Brown,Pulau Pinang,12.0,1.0,1.0,3.0,1.0,3.0,1.0,1.0,0.0,0.0,3.0,1
+Dog,Male,Mixed Breed,Black,Yellow,Perak,4.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,2.0,1
+Dog,Male,Mixed Breed,Brown,White,Selangor,3.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,3.0,1
+Dog,Male,Mixed Breed,Black,Cream,Selangor,2.0,2.0,2.0,2.0,1.0,2.0,1.0,1.0,0.0,0.0,6.0,1
+Cat,Male,Domestic Medium Hair,White,NoColor,Pulau Pinang,4.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,30.0,0.0,1.0,0
+Cat,Mixed,Domestic Medium Hair,Black,Brown,Kuala Lumpur,4.0,2.0,2.0,2.0,2.0,2.0,1.0,2.0,100.0,0.0,8.0,1
+Dog,Mixed,Mixed Breed,Brown,Cream,Selangor,7.0,2.0,1.0,2.0,1.0,1.0,1.0,2.0,0.0,0.0,2.0,0
+Dog,Male,Mixed Breed,Black,Brown,Selangor,2.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,3.0,0
+Cat,Male,Domestic Short Hair,Black,NoColor,Terengganu,1.0,1.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,1.0,1
+Cat,Female,Domestic Short Hair,Black,Yellow,Selangor,2.0,2.0,1.0,2.0,2.0,2.0,1.0,2.0,0.0,0.0,3.0,1
+Dog,Female,Mixed Breed,Brown,Cream,Kuala Lumpur,48.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0,0
+Dog,Mixed,Mixed Breed,Black,Brown,Selangor,24.0,2.0,2.0,1.0,1.0,1.0,1.0,5.0,0.0,0.0,7.0,0
+Cat,Female,Domestic Medium Hair,Golden,Gray,Selangor,3.0,2.0,2.0,1.0,2.0,2.0,1.0,1.0,0.0,0.0,4.0,1
+Cat,Female,Persian,Cream,White,Selangor,17.0,2.0,2.0,2.0,2.0,2.0,1.0,1.0,40.0,0.0,3.0,1
+Cat,Female,Domestic Long Hair,Brown,NoColor,Selangor,7.0,3.0,3.0,2.0,1.0,2.0,1.0,1.0,15.0,0.0,2.0,1
+Dog,Mixed,Mixed Breed,Black,Brown,Selangor,24.0,2.0,1.0,3.0,3.0,1.0,1.0,3.0,0.0,0.0,11.0,1
+Cat,Female,Domestic Short Hair,Brown,Golden,Kuala Lumpur,3.0,2.0,2.0,3.0,3.0,3.0,1.0,1.0,0.0,0.0,4.0,1
+Dog,Mixed,Mixed Breed,Brown,Golden,Kuala Lumpur,2.0,2.0,2.0,2.0,2.0,2.0,1.0,6.0,0.0,0.0,8.0,0
+Cat,Male,Domestic Short Hair,Gray,White,Kuala Lumpur,2.0,2.0,1.0,2.0,1.0,2.0,1.0,1.0,0.0,0.0,5.0,1
+Cat,Female,Domestic Short Hair,White,NoColor,Selangor,2.0,2.0,1.0,2.0,1.0,2.0,1.0,3.0,0.0,0.0,4.0,1
+Dog,Female,Mixed Breed,Brown,NoColor,Selangor,2.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,4.0,1
+Dog,Male,Schnauzer,Gray,NoColor,Kuala Lumpur,12.0,1.0,2.0,1.0,1.0,3.0,1.0,1.0,100.0,0.0,2.0,1
+Dog,Female,Doberman Pinscher,Black,Brown,Selangor,2.0,2.0,2.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,5.0,1
+Dog,Male,Mixed Breed,Black,NoColor,Selangor,3.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,3.0,1
+Cat,Male,Domestic Short Hair,Black,White,Kuala Lumpur,2.0,2.0,1.0,2.0,1.0,2.0,1.0,1.0,0.0,0.0,3.0,1
+Dog,Female,Mixed Breed,Cream,NoColor,Selangor,2.0,2.0,2.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,2.0,1
+Cat,Male,Domestic Short Hair,Brown,Yellow,Kuala Lumpur,1.0,2.0,1.0,2.0,1.0,2.0,1.0,1.0,0.0,0.0,1.0,1
+Cat,Female,Domestic Short Hair,Black,NoColor,Kuala Lumpur,2.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,5.0,1
+Dog,Female,Rottweiler,Black,NoColor,Selangor,36.0,3.0,1.0,3.0,3.0,3.0,1.0,1.0,350.0,0.0,1.0,0
+Dog,Female,Mixed Breed,Black,Brown,Selangor,1.0,2.0,2.0,1.0,1.0,2.0,1.0,1.0,150.0,1.0,13.0,1
+Cat,Male,Domestic Short Hair,Black,Gray,Selangor,4.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,14.0,1
+Dog,Male,Mixed Breed,Cream,NoColor,Selangor,72.0,2.0,2.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,5.0,0
+Dog,Male,Mixed Breed,Black,NoColor,Selangor,3.0,2.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,1.0,1
+Cat,Female,Domestic Medium Hair,White,NoColor,Selangor,3.0,2.0,2.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,1.0,0
+Dog,Female,Mixed Breed,Cream,NoColor,Selangor,4.0,2.0,1.0,3.0,3.0,2.0,1.0,1.0,0.0,0.0,1.0,1
+Dog,Male,Shih Tzu,Cream,NoColor,Selangor,84.0,1.0,3.0,1.0,1.0,1.0,1.0,1.0,50.0,0.0,4.0,1
+Cat,Female,Domestic Short Hair,Black,Yellow,Selangor,1.0,2.0,1.0,2.0,1.0,2.0,1.0,1.0,0.0,0.0,3.0,1
+Cat,Female,Domestic Short Hair,Black,NoColor,Kuala Lumpur,3.0,1.0,1.0,2.0,2.0,2.0,2.0,1.0,0.0,0.0,1.0,0
+Cat,Female,Domestic Short Hair,Black,Yellow,Selangor,55.0,3.0,1.0,1.0,1.0,1.0,1.0,3.0,0.0,0.0,6.0,0
+Cat,Female,Domestic Short Hair,Yellow,White,Kuala Lumpur,5.0,2.0,1.0,2.0,1.0,2.0,1.0,1.0,0.0,0.0,3.0,1
+Dog,Male,Mixed Breed,Black,Yellow,Selangor,12.0,2.0,1.0,2.0,1.0,2.0,1.0,1.0,0.0,0.0,7.0,1
+Cat,Female,Domestic Short Hair,Black,White,Selangor,2.0,2.0,1.0,2.0,1.0,2.0,1.0,1.0,0.0,0.0,3.0,1
+Dog,Female,Cocker Spaniel,Golden,NoColor,Selangor,8.0,2.0,2.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,3.0,1
+Cat,Male,Domestic Short Hair,Black,Gray,Selangor,2.0,2.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,0.0,1
+Dog,Female,Mixed Breed,Cream,NoColor,Selangor,3.0,2.0,2.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,6.0,1
+Cat,Female,Domestic Short Hair,Black,White,Pulau Pinang,3.0,1.0,1.0,1.0,2.0,2.0,1.0,1.0,1.0,0.0,0.0,0
+Cat,Female,Domestic Medium Hair,Black,NoColor,Selangor,1.0,1.0,2.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,1.0,1
+Cat,Mixed,Domestic Medium Hair,Black,NoColor,Selangor,1.0,1.0,2.0,2.0,2.0,2.0,1.0,2.0,0.0,0.0,4.0,1
+Cat,Male,Domestic Short Hair,Brown,Cream,Kuala Lumpur,3.0,1.0,1.0,2.0,2.0,2.0,2.0,1.0,0.0,0.0,1.0,0
+Cat,Male,Russian Blue,Gray,NoColor,Kuala Lumpur,16.0,2.0,1.0,2.0,1.0,2.0,1.0,1.0,200.0,0.0,2.0,1
+Dog,Female,Terrier,White,NoColor,Kuala Lumpur,13.0,2.0,2.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,6.0,1
+Cat,Female,Domestic Short Hair,Gray,White,Kuala Lumpur,3.0,1.0,1.0,2.0,1.0,2.0,1.0,1.0,0.0,0.0,10.0,1
+Cat,Male,Domestic Short Hair,Brown,White,Kuala Lumpur,2.0,2.0,1.0,3.0,3.0,3.0,1.0,1.0,0.0,0.0,7.0,1
+Cat,Mixed,Domestic Medium Hair,Black,White,Johor,1.0,1.0,2.0,2.0,2.0,2.0,1.0,2.0,0.0,0.0,2.0,1
+Dog,Male,Shih Tzu,Brown,Cream,Selangor,72.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,4.0,1
+Cat,Male,Domestic Short Hair,Golden,White,Selangor,3.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,3.0,1
+Dog,Female,Mixed Breed,White,NoColor,Selangor,36.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,5.0,1
+Dog,Mixed,Mixed Breed,Black,Brown,Kuala Lumpur,0.0,2.0,1.0,2.0,2.0,2.0,1.0,4.0,0.0,0.0,3.0,1
+Dog,Female,Mixed Breed,Black,White,Kedah,24.0,2.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,2.0,0
+Cat,Female,Siamese,Black,Brown,Selangor,3.0,1.0,1.0,2.0,1.0,2.0,2.0,1.0,0.0,0.0,2.0,1
+Dog,Male,Golden Retriever,Brown,NoColor,Selangor,3.0,3.0,2.0,3.0,3.0,2.0,1.0,1.0,0.0,0.0,1.0,1
+Cat,Male,Domestic Short Hair,Gray,White,Johor,1.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,2.0,1
+Cat,Mixed,Domestic Short Hair,Black,Yellow,Selangor,2.0,1.0,1.0,1.0,1.0,2.0,1.0,3.0,0.0,0.0,4.0,1
+Dog,Female,Doberman Pinscher,Black,Brown,Selangor,2.0,2.0,1.0,1.0,1.0,2.0,1.0,4.0,0.0,0.0,6.0,1
+Cat,Female,Domestic Short Hair,Black,Yellow,Selangor,4.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,2.0,9.0,1
+Dog,Mixed,Mixed Breed,Black,Brown,Selangor,1.0,3.0,2.0,2.0,2.0,2.0,1.0,6.0,0.0,7.0,21.0,1
+Dog,Female,Mixed Breed,Brown,Golden,Selangor,2.0,2.0,2.0,2.0,2.0,2.0,1.0,3.0,0.0,0.0,2.0,0
+Dog,Male,Mixed Breed,Brown,White,Selangor,1.0,2.0,2.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,7.0,1
+Dog,Male,Mixed Breed,Black,Brown,Perak,2.0,2.0,1.0,2.0,1.0,2.0,1.0,1.0,0.0,0.0,1.0,1
+Cat,Male,American Shorthair,Black,White,Kuala Lumpur,4.0,2.0,2.0,2.0,1.0,2.0,1.0,1.0,0.0,0.0,3.0,1
+Dog,Female,Mixed Breed,Black,NoColor,Selangor,1.0,2.0,1.0,2.0,1.0,2.0,1.0,1.0,0.0,0.0,5.0,1
+Dog,Male,Mixed Breed,Black,Brown,Selangor,2.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,1.0,14.0,1
+Cat,Male,Domestic Short Hair,Brown,Golden,Selangor,4.0,1.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,4.0,1
+Dog,Female,Terrier,Black,White,Selangor,5.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,4.0,1
+Cat,Female,Tuxedo,Black,White,Selangor,2.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,5.0,17.0,1
+Cat,Female,Domestic Medium Hair,Cream,White,Kuala Lumpur,11.0,2.0,2.0,1.0,1.0,2.0,1.0,1.0,10.0,0.0,3.0,1
+Dog,Female,Mixed Breed,Black,Brown,Selangor,1.0,2.0,1.0,2.0,1.0,2.0,1.0,1.0,0.0,0.0,4.0,1
+Cat,Male,Bombay,Black,NoColor,Selangor,24.0,2.0,1.0,2.0,2.0,3.0,1.0,1.0,0.0,0.0,1.0,1
+Cat,Male,Domestic Short Hair,Black,Brown,Selangor,24.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,100.0,0.0,7.0,0
+Cat,Male,Domestic Short Hair,Golden,Gray,Pulau Pinang,2.0,1.0,2.0,2.0,1.0,2.0,1.0,1.0,0.0,0.0,2.0,1
+Dog,Male,Shih Tzu,Brown,Cream,Selangor,24.0,1.0,3.0,1.0,1.0,2.0,1.0,1.0,250.0,0.0,2.0,1
+Dog,Male,Mixed Breed,Black,White,Selangor,2.0,2.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,4.0,1
+Dog,Male,Labrador Retriever,Black,NoColor,Kuala Lumpur,3.0,3.0,1.0,3.0,3.0,2.0,1.0,1.0,0.0,1.0,5.0,1
+Cat,Male,Persian,Black,White,Selangor,6.0,3.0,2.0,2.0,1.0,2.0,1.0,1.0,0.0,0.0,5.0,1
+Cat,Female,Domestic Short Hair,Gray,White,Kuala Lumpur,3.0,2.0,2.0,2.0,1.0,2.0,1.0,1.0,0.0,0.0,5.0,1
+Dog,Female,Schnauzer,Black,NoColor,Pulau Pinang,132.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0,0
+Dog,Female,Mixed Breed,Black,NoColor,Selangor,4.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,5.0,1
+Dog,Male,Mixed Breed,Black,Brown,Selangor,3.0,2.0,2.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,7.0,1
+Dog,Male,Mixed Breed,Black,Brown,Selangor,1.0,2.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,6.0,1
+Dog,Female,Mixed Breed,Black,White,Selangor,2.0,1.0,1.0,2.0,1.0,2.0,1.0,1.0,0.0,0.0,4.0,0
+Dog,Mixed,Mixed Breed,Brown,White,Selangor,2.0,1.0,1.0,1.0,1.0,2.0,1.0,3.0,0.0,0.0,10.0,1
+Cat,Mixed,Domestic Short Hair,Black,Yellow,Kuala Lumpur,12.0,2.0,1.0,1.0,1.0,1.0,1.0,2.0,0.0,0.0,3.0,1
+Cat,Female,Singapura,Black,Yellow,Selangor,4.0,2.0,1.0,2.0,2.0,2.0,2.0,1.0,0.0,0.0,3.0,0
+Cat,Male,Domestic Short Hair,Gray,NoColor,Selangor,7.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,100.0,0.0,1.0,1
+Cat,Male,Domestic Short Hair,Black,NoColor,Kuala Lumpur,5.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,5.0,1
+Dog,Male,Mixed Breed,Golden,NoColor,Selangor,14.0,2.0,2.0,2.0,3.0,3.0,1.0,1.0,0.0,0.0,2.0,0
+Dog,Female,Mixed Breed,Brown,White,Selangor,1.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,1.0,1
+Cat,Male,Tabby,Black,Gray,Selangor,7.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,100.0,0.0,5.0,0
+Dog,Female,Mixed Breed,Yellow,White,Selangor,36.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,4.0,0
+Cat,Female,Domestic Medium Hair,Brown,White,Selangor,12.0,2.0,2.0,3.0,1.0,3.0,1.0,2.0,0.0,0.0,4.0,0
+Dog,Female,Mixed Breed,Cream,NoColor,Selangor,1.0,2.0,1.0,2.0,1.0,2.0,2.0,1.0,0.0,1.0,7.0,1
+Cat,Male,Domestic Short Hair,Golden,NoColor,Kuala Lumpur,84.0,3.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,5.0,1
+Cat,Mixed,Domestic Short Hair,Black,Cream,Selangor,4.0,1.0,1.0,2.0,2.0,2.0,1.0,5.0,0.0,0.0,5.0,1
+Dog,Female,Mixed Breed,Black,Brown,Selangor,2.0,2.0,2.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,1.0,1
+Cat,Female,Domestic Long Hair,Black,Yellow,Selangor,14.0,3.0,3.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,2.0,0
+Dog,Female,Terrier,Black,Gray,Selangor,36.0,1.0,3.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,2.0,1
+Dog,Female,Mixed Breed,Cream,White,Perak,12.0,2.0,2.0,2.0,2.0,2.0,1.0,1.0,0.0,1.0,1.0,1
+Dog,Female,Mixed Breed,Black,White,Selangor,2.0,2.0,2.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,3.0,1
+Cat,Female,Domestic Medium Hair,Black,Yellow,Selangor,2.0,2.0,2.0,2.0,2.0,2.0,1.0,2.0,0.0,0.0,5.0,1
+Cat,Female,Domestic Short Hair,Cream,Gray,Perak,2.0,1.0,1.0,2.0,1.0,2.0,1.0,1.0,0.0,0.0,5.0,0
+Dog,Male,Mixed Breed,Black,Brown,Selangor,1.0,2.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,1.0,1
+Dog,Female,Mixed Breed,Black,Brown,Selangor,156.0,2.0,2.0,1.0,1.0,3.0,1.0,1.0,0.0,0.0,1.0,1
+Cat,Female,Domestic Short Hair,Black,White,Johor,12.0,2.0,2.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,2.0,0
+Cat,Female,Domestic Short Hair,Brown,Cream,Selangor,12.0,2.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,1.0,1
+Dog,Female,Mixed Breed,Golden,Cream,Selangor,5.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,3.0,1
+Dog,Female,Pug,Brown,Cream,Kuala Lumpur,7.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,2.0,1
+Dog,Female,Mixed Breed,Brown,White,Selangor,3.0,2.0,2.0,2.0,1.0,2.0,1.0,1.0,0.0,0.0,3.0,1
+Dog,Mixed,Mixed Breed,Black,Brown,Selangor,2.0,2.0,1.0,2.0,2.0,2.0,1.0,5.0,0.0,0.0,6.0,1
+Cat,Female,Domestic Medium Hair,Black,Brown,Selangor,3.0,2.0,2.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,0.0,1
+Dog,Male,Mixed Breed,Black,NoColor,Johor,36.0,3.0,1.0,1.0,1.0,1.0,1.0,2.0,0.0,0.0,3.0,1
+Cat,Female,Domestic Short Hair,Black,Yellow,Selangor,5.0,2.0,1.0,2.0,1.0,2.0,1.0,1.0,0.0,0.0,6.0,1
+Dog,Male,Mixed Breed,Black,Brown,Kuala Lumpur,1.0,1.0,1.0,2.0,2.0,3.0,1.0,1.0,0.0,0.0,5.0,1
+Dog,Female,Mixed Breed,Black,Brown,Pulau Pinang,2.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,6.0,1
+Cat,Mixed,Abyssinian,Black,Brown,Perak,12.0,2.0,1.0,3.0,3.0,3.0,1.0,6.0,0.0,0.0,3.0,1
+Dog,Mixed,Mixed Breed,Brown,Yellow,Pulau Pinang,16.0,2.0,1.0,3.0,3.0,3.0,1.0,5.0,0.0,0.0,5.0,0
+Dog,Female,Mixed Breed,Brown,White,Selangor,2.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,5.0,1
+Dog,Female,Mixed Breed,Black,White,Johor,0.0,2.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,1.0,1
+Cat,Male,Domestic Medium Hair,Brown,White,Negeri Sembilan,2.0,2.0,2.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,3.0,1
+Dog,Male,Mixed Breed,Golden,NoColor,Kuala Lumpur,4.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,155.0,0.0,1.0,0
+Cat,Male,Domestic Short Hair,Golden,Gray,Selangor,12.0,2.0,1.0,2.0,1.0,1.0,1.0,2.0,0.0,0.0,6.0,0
+Cat,Male,Domestic Short Hair,Black,White,Johor,8.0,2.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,2.0,1
+Dog,Male,Mixed Breed,Black,White,Selangor,60.0,3.0,2.0,3.0,3.0,3.0,1.0,2.0,0.0,0.0,2.0,0
+Cat,Male,Domestic Medium Hair,Golden,White,Negeri Sembilan,2.0,2.0,2.0,2.0,1.0,2.0,2.0,1.0,0.0,1.0,3.0,1
+Dog,Female,Mixed Breed,Brown,NoColor,Selangor,3.0,2.0,2.0,2.0,1.0,1.0,1.0,1.0,50.0,0.0,6.0,1
+Dog,Female,Mixed Breed,Yellow,NoColor,Pulau Pinang,2.0,2.0,1.0,2.0,2.0,2.0,1.0,1.0,20.0,0.0,1.0,1
+Cat,Male,Tabby,Black,White,Selangor,2.0,2.0,1.0,2.0,1.0,2.0,1.0,1.0,0.0,0.0,2.0,1
+Dog,Male,Schnauzer,Gray,White,Selangor,25.0,2.0,3.0,1.0,1.0,2.0,1.0,1.0,100.0,0.0,2.0,1
+Dog,Mixed,Mixed Breed,Black,Brown,Kuala Lumpur,2.0,2.0,1.0,1.0,1.0,2.0,1.0,4.0,0.0,0.0,4.0,0
+Dog,Female,Mixed Breed,Brown,NoColor,Selangor,3.0,2.0,1.0,2.0,2.0,2.0,1.0,3.0,0.0,0.0,3.0,0
+Dog,Male,Labrador Retriever,Black,White,Selangor,24.0,3.0,2.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,2.0,1
+Dog,Female,Mixed Breed,Black,Golden,Selangor,7.0,2.0,1.0,3.0,3.0,1.0,1.0,1.0,0.0,0.0,1.0,1
+Cat,Female,Domestic Short Hair,White,NoColor,Kuala Lumpur,2.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,100.0,0.0,5.0,1
+Cat,Male,Domestic Medium Hair,Yellow,Cream,Kuala Lumpur,8.0,2.0,1.0,2.0,1.0,2.0,1.0,10.0,0.0,0.0,4.0,1
+Dog,Male,Mixed Breed,Golden,NoColor,Selangor,5.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,2.0,1
+Dog,Male,Mixed Breed,White,NoColor,Selangor,24.0,2.0,1.0,2.0,2.0,3.0,2.0,2.0,0.0,0.0,3.0,1
+Dog,Female,Mixed Breed,Brown,NoColor,Selangor,1.0,2.0,2.0,2.0,1.0,2.0,1.0,1.0,150.0,1.0,14.0,1
+Cat,Female,Domestic Short Hair,Brown,Cream,Kuala Lumpur,12.0,2.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,3.0,1
+Dog,Male,Mixed Breed,Brown,NoColor,Johor,72.0,2.0,2.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,3.0,0
+Cat,Male,Domestic Medium Hair,Gray,White,Selangor,3.0,2.0,2.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,3.0,0
+Cat,Male,Domestic Medium Hair,Cream,Gray,Selangor,8.0,3.0,2.0,2.0,1.0,2.0,1.0,1.0,0.0,0.0,1.0,0
+Cat,Mixed,Domestic Short Hair,Black,Cream,Kuala Lumpur,2.0,1.0,1.0,2.0,2.0,2.0,1.0,3.0,0.0,0.0,5.0,0
+Dog,Mixed,Mixed Breed,Brown,NoColor,Selangor,4.0,2.0,1.0,2.0,2.0,2.0,1.0,5.0,0.0,0.0,5.0,1
+Dog,Male,Mixed Breed,Brown,NoColor,Selangor,3.0,2.0,1.0,2.0,1.0,2.0,1.0,2.0,0.0,1.0,1.0,0
+Dog,Female,Collie,Black,Cream,Selangor,1.0,2.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,5.0,1
+Dog,Male,Mixed Breed,Black,White,Kuala Lumpur,7.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0,0
+Dog,Female,Mixed Breed,White,NoColor,Selangor,2.0,2.0,2.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,1.0,0
+Cat,Male,Persian,Brown,Cream,Selangor,15.0,3.0,2.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0,1
+Cat,Male,Domestic Short Hair,Black,Golden,Kuala Lumpur,2.0,3.0,1.0,2.0,2.0,2.0,1.0,3.0,0.0,0.0,5.0,0
+Dog,Female,Mixed Breed,Brown,Cream,Selangor,2.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,14.0,1
+Dog,Female,Mixed Breed,Brown,White,Selangor,1.0,2.0,1.0,3.0,3.0,2.0,1.0,1.0,0.0,0.0,3.0,1
+Cat,Male,Domestic Short Hair,Yellow,White,Kuala Lumpur,4.0,1.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.0,5.0,1
+Dog,Male,Mixed Breed,Brown,Gray,Selangor,2.0,2.0,1.0,1.0,1.0,3.0,1.0,2.0,0.0,0.0,5.0,0
+Cat,Mixed,Domestic Short Hair,Black,White,Selangor,1.0,1.0,1.0,2.0,2.0,2.0,1.0,2.0,0.0,0.0,8.0,1
+Cat,Female,Domestic Medium Hair,Black,Yellow,Kuala Lumpur,24.0,2.0,2.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0,0
+Dog,Male,Poodle,White,NoColor,Negeri Sembilan,24.0,2.0,2.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0
+Dog,Male,Mixed Breed,Black,NoColor,Selangor,3.0,2.0,1.0,2.0,2.0,2.0,1.0,2.0,0.0,0.0,8.0,1
+Dog,Female,Mixed Breed,Brown,White,Selangor,3.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,3.0,1
+Cat,Male,Tabby,Gray,White,Selangor,7.0,2.0,3.0,2.0,1.0,2.0,1.0,1.0,0.0,0.0,3.0,1
+Cat,Mixed,Persian,Black,Brown,Selangor,1.0,2.0,3.0,2.0,2.0,1.0,1.0,4.0,0.0,0.0,3.0,0
+Dog,Male,Terrier,Brown,Cream,Selangor,48.0,2.0,3.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,3.0,0
+Cat,Mixed,Domestic Short Hair,Yellow,Cream,Kuala Lumpur,2.0,2.0,1.0,2.0,2.0,2.0,1.0,2.0,0.0,0.0,2.0,1
+Cat,Male,Domestic Short Hair,Black,Brown,Kuala Lumpur,3.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,8.0,1
+Dog,Male,Mixed Breed,Cream,White,Selangor,2.0,2.0,1.0,2.0,1.0,2.0,1.0,1.0,0.0,0.0,3.0,1
+Cat,Female,Domestic Medium Hair,Brown,Golden,Kelantan,1.0,2.0,2.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,0.0,1
+Dog,Mixed,Mixed Breed,Brown,NoColor,Selangor,3.0,2.0,1.0,2.0,2.0,2.0,1.0,4.0,0.0,0.0,5.0,0
+Dog,Female,Mixed Breed,Brown,White,Selangor,2.0,2.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,1.0,1
+Cat,Mixed,Domestic Short Hair,Black,Brown,Kuala Lumpur,2.0,2.0,1.0,2.0,2.0,2.0,1.0,5.0,0.0,0.0,7.0,0
+Dog,Female,Terrier,Brown,White,Selangor,36.0,2.0,2.0,2.0,1.0,1.0,1.0,1.0,0.0,0.0,7.0,0
+Dog,Female,Mixed Breed,Black,White,Perak,2.0,2.0,1.0,2.0,1.0,2.0,1.0,1.0,0.0,0.0,1.0,1
+Cat,Female,Domestic Short Hair,Yellow,White,Selangor,1.0,2.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,1.0,1
+Dog,Male,Mixed Breed,Cream,White,Selangor,4.0,2.0,2.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,2.0,1
+Cat,Male,Domestic Short Hair,Gray,White,Selangor,24.0,2.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0
+Dog,Female,Mixed Breed,Brown,Cream,Selangor,2.0,2.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,2.0,0
+Cat,Female,Siamese,Brown,Cream,Kuala Lumpur,12.0,2.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,2.0,1
+Dog,Female,Mixed Breed,Black,Brown,Selangor,2.0,1.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,1.0,1
+Dog,Female,Mixed Breed,White,NoColor,Selangor,18.0,2.0,2.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,4.0,1
+Cat,Female,Domestic Short Hair,Brown,Golden,Selangor,1.0,1.0,1.0,3.0,3.0,3.0,1.0,1.0,0.0,0.0,4.0,0
+Dog,Female,Mixed Breed,Black,Brown,Kuala Lumpur,1.0,3.0,1.0,2.0,2.0,2.0,1.0,1.0,50.0,0.0,9.0,1
+Dog,Mixed,Mixed Breed,Brown,Golden,Selangor,3.0,2.0,1.0,1.0,1.0,2.0,1.0,3.0,0.0,0.0,3.0,0
+Cat,Male,Domestic Short Hair,Yellow,NoColor,Kuala Lumpur,4.0,2.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,3.0,1
+Dog,Female,Mixed Breed,Black,Brown,Selangor,34.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,100.0,0.0,4.0,0
+Dog,Female,Mixed Breed,Brown,NoColor,Kuala Lumpur,4.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,10.0,1
+Dog,Female,Doberman Pinscher,Black,Brown,Kuala Lumpur,3.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,8.0,0.0,5.0,1
+Dog,Female,Mixed Breed,White,NoColor,Selangor,6.0,2.0,1.0,3.0,3.0,3.0,1.0,1.0,0.0,0.0,3.0,0
+Dog,Mixed,Golden Retriever,Black,Brown,Selangor,1.0,2.0,2.0,1.0,1.0,2.0,1.0,7.0,200.0,0.0,11.0,0
+Cat,Male,Domestic Short Hair,Black,White,Selangor,2.0,1.0,1.0,2.0,3.0,2.0,1.0,1.0,0.0,0.0,1.0,1
+Dog,Male,Beagle,Brown,Cream,Kuala Lumpur,22.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,0.0,1
+Cat,Male,Domestic Medium Hair,Black,Gray,Kuala Lumpur,3.0,2.0,2.0,2.0,1.0,2.0,1.0,1.0,0.0,0.0,2.0,1
+Cat,Mixed,Domestic Short Hair,Black,Brown,Kuala Lumpur,1.0,1.0,1.0,2.0,1.0,2.0,1.0,2.0,0.0,0.0,3.0,1
+Dog,Female,Doberman Pinscher,Black,Brown,Kuala Lumpur,19.0,3.0,1.0,1.0,1.0,1.0,1.0,1.0,500.0,0.0,2.0,1
+Dog,Male,Mixed Breed,Black,White,Selangor,39.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,5.0,1
+Dog,Male,Mixed Breed,White,NoColor,Kedah,3.0,2.0,2.0,2.0,1.0,2.0,1.0,1.0,0.0,0.0,2.0,1
+Dog,Female,Mixed Breed,Black,Brown,Perak,3.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,5.0,1
+Cat,Male,Domestic Short Hair,Black,White,Selangor,5.0,2.0,1.0,2.0,1.0,2.0,1.0,1.0,0.0,1.0,12.0,1
+Cat,Mixed,Tabby,Golden,Yellow,Selangor,6.0,3.0,2.0,3.0,3.0,3.0,1.0,2.0,0.0,0.0,11.0,1
+Cat,Male,Domestic Long Hair,Yellow,Cream,Selangor,6.0,2.0,2.0,3.0,1.0,2.0,1.0,1.0,30.0,0.0,2.0,1
+Dog,Female,Mixed Breed,Black,Brown,Kuala Lumpur,2.0,2.0,2.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,5.0,1
+Dog,Female,Labrador Retriever,Black,Golden,Selangor,2.0,3.0,2.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,19.0,1
+Cat,Male,Domestic Short Hair,Black,NoColor,Selangor,4.0,2.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,3.0,0
+Dog,Female,Mixed Breed,Black,Brown,Selangor,3.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,50.0,0.0,2.0,1
+Cat,Male,Tabby,Black,White,Selangor,2.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,50.0,0.0,4.0,1
+Cat,Male,British Shorthair,Yellow,White,Kuala Lumpur,7.0,3.0,2.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,2.0,1
+Cat,Female,Abyssinian,Black,White,Selangor,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,2.0,1
+Dog,Mixed,Mixed Breed,Black,Brown,Selangor,1.0,1.0,1.0,2.0,2.0,3.0,1.0,2.0,0.0,0.0,2.0,1
+Dog,Female,Shih Tzu,Brown,White,Kuala Lumpur,91.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0,1
+Cat,Male,Domestic Short Hair,Black,White,Kuala Lumpur,3.0,1.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,2.0,1
+Dog,Female,Mixed Breed,Brown,NoColor,Perak,9.0,1.0,1.0,2.0,2.0,2.0,1.0,2.0,0.0,0.0,0.0,0
+Cat,Female,Domestic Short Hair,Black,Brown,Terengganu,1.0,1.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,1.0,1
+Dog,Female,Mixed Breed,Black,Brown,Selangor,3.0,2.0,1.0,2.0,1.0,2.0,1.0,1.0,0.0,0.0,2.0,1
+Cat,Female,Domestic Short Hair,Black,Golden,Selangor,1.0,2.0,2.0,3.0,3.0,3.0,1.0,1.0,0.0,0.0,4.0,1
+Cat,Male,Domestic Short Hair,Black,White,Selangor,1.0,1.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,4.0,1
+Cat,Female,Tabby,Gray,NoColor,Selangor,2.0,1.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,7.0,1
+Dog,Mixed,Mixed Breed,Black,White,Pulau Pinang,1.0,2.0,2.0,3.0,3.0,3.0,1.0,2.0,100.0,0.0,1.0,1
+Dog,Male,Mixed Breed,Black,Brown,Selangor,2.0,2.0,2.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,6.0,1
+Dog,Female,Mixed Breed,Brown,White,Selangor,4.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,1.0,1
+Dog,Male,Mixed Breed,Brown,NoColor,Selangor,6.0,2.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,2.0,0
+Dog,Male,Miniature Pinscher,Black,NoColor,Kuala Lumpur,12.0,2.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.0,2.0,1
+Cat,Male,Domestic Short Hair,Gray,White,Selangor,7.0,2.0,1.0,2.0,1.0,2.0,1.0,1.0,0.0,0.0,1.0,0
+Dog,Male,Shih Tzu,Black,Brown,Kuala Lumpur,12.0,1.0,3.0,1.0,1.0,1.0,1.0,1.0,300.0,0.0,5.0,0
+Dog,Female,Mixed Breed,Cream,NoColor,Johor,9.0,2.0,1.0,2.0,2.0,1.0,1.0,1.0,0.0,0.0,9.0,1
+Cat,Male,Oriental Long Hair,Black,White,Kuala Lumpur,2.0,2.0,2.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,1.0,1
+Cat,Mixed,Domestic Short Hair,Black,Brown,Selangor,0.0,1.0,1.0,3.0,3.0,3.0,1.0,3.0,0.0,0.0,3.0,1
+Cat,Mixed,Domestic Short Hair,Brown,Golden,Selangor,1.0,1.0,2.0,2.0,2.0,2.0,1.0,2.0,0.0,0.0,3.0,0
+Dog,Female,Mixed Breed,White,NoColor,Kuala Lumpur,1.0,2.0,1.0,2.0,1.0,2.0,1.0,1.0,0.0,0.0,1.0,1
+Cat,Female,Domestic Medium Hair,Black,Yellow,Kuala Lumpur,36.0,2.0,2.0,2.0,2.0,3.0,1.0,1.0,0.0,0.0,1.0,0
+Cat,Male,Domestic Short Hair,Yellow,White,Kuala Lumpur,4.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,17.0,1
+Dog,Female,Mixed Breed,Brown,NoColor,Selangor,7.0,2.0,2.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,4.0,0
+Cat,Mixed,Domestic Short Hair,Black,Brown,Perak,2.0,2.0,1.0,2.0,2.0,2.0,1.0,3.0,0.0,0.0,3.0,0
+Cat,Male,Siamese,Brown,Cream,Selangor,2.0,1.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,2.0,1
+Cat,Female,Oriental Short Hair,Black,NoColor,Selangor,4.0,2.0,2.0,2.0,2.0,2.0,1.0,1.0,50.0,0.0,5.0,0
+Cat,Male,Bombay,Black,Brown,Kuala Lumpur,1.0,2.0,2.0,2.0,1.0,2.0,1.0,2.0,0.0,0.0,17.0,0
+Dog,Male,Doberman Pinscher,Black,Golden,Selangor,3.0,3.0,2.0,3.0,3.0,2.0,1.0,1.0,0.0,0.0,2.0,1
+Dog,Male,Shepherd,Brown,Cream,Selangor,2.0,3.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,11.0,1
+Dog,Female,Mixed Breed,Brown,White,Selangor,1.0,2.0,1.0,3.0,3.0,2.0,1.0,1.0,0.0,0.0,1.0,1
+Dog,Male,Labrador Retriever,Yellow,NoColor,Kuala Lumpur,3.0,3.0,1.0,2.0,1.0,1.0,1.0,1.0,350.0,0.0,4.0,1
+Cat,Male,Domestic Medium Hair,Golden,NoColor,Selangor,3.0,2.0,2.0,1.0,1.0,3.0,1.0,1.0,0.0,0.0,3.0,0
+Dog,Male,Rottweiler,Black,Cream,Kuala Lumpur,2.0,3.0,2.0,2.0,2.0,2.0,1.0,2.0,100.0,0.0,3.0,1
+Dog,Mixed,Mixed Breed,Black,Cream,Selangor,1.0,2.0,1.0,2.0,2.0,2.0,1.0,6.0,0.0,0.0,5.0,1
+Cat,Male,Domestic Medium Hair,Yellow,NoColor,Kuala Lumpur,3.0,1.0,2.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,4.0,1
+Cat,Female,Domestic Long Hair,Gray,NoColor,Selangor,12.0,2.0,3.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,5.0,1
+Cat,Female,Persian,Brown,Yellow,Kuala Lumpur,36.0,2.0,3.0,1.0,1.0,1.0,1.0,1.0,350.0,0.0,1.0,0
+Cat,Male,Domestic Short Hair,White,NoColor,Selangor,36.0,3.0,2.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0
+Cat,Male,Domestic Long Hair,Golden,NoColor,Selangor,5.0,2.0,2.0,2.0,1.0,2.0,1.0,1.0,50.0,0.0,2.0,1
+Cat,Female,Calico,Black,Brown,Kuala Lumpur,8.0,1.0,1.0,3.0,3.0,1.0,1.0,1.0,0.0,0.0,5.0,0
+Cat,Male,Domestic Short Hair,Gray,NoColor,Selangor,6.0,2.0,2.0,1.0,3.0,1.0,1.0,1.0,0.0,0.0,1.0,1
+Dog,Male,Mixed Breed,Cream,NoColor,Kuala Lumpur,3.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,8.0,1
+Dog,Male,Mixed Breed,Black,Brown,Selangor,2.0,2.0,1.0,2.0,2.0,2.0,1.0,8.0,0.0,0.0,7.0,1
+Cat,Male,American Shorthair,Black,White,Sabah,1.0,1.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,1.0,0
+Dog,Male,Beagle,Black,Brown,Kuala Lumpur,48.0,2.0,2.0,1.0,1.0,1.0,1.0,1.0,500.0,0.0,0.0,0
+Dog,Female,Mixed Breed,Black,Brown,Kuala Lumpur,2.0,1.0,2.0,1.0,1.0,2.0,1.0,2.0,0.0,0.0,15.0,1
+Dog,Female,Mixed Breed,Brown,Yellow,Kuala Lumpur,12.0,2.0,2.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,2.0,1
+Cat,Male,Persian,Black,White,Selangor,19.0,2.0,3.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,1
+Dog,Female,Mixed Breed,White,NoColor,Selangor,2.0,2.0,2.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,1.0,1
+Dog,Female,Mixed Breed,Cream,NoColor,Selangor,4.0,1.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,0.0,0
+Dog,Male,Mixed Breed,Cream,NoColor,Kedah,1.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,1.0,1
+Cat,Male,Domestic Medium Hair,White,NoColor,Pulau Pinang,6.0,2.0,2.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,4.0,1
+Dog,Female,Schnauzer,Black,White,Kuala Lumpur,60.0,1.0,2.0,1.0,1.0,2.0,1.0,1.0,100.0,0.0,1.0,1
+Dog,Female,Mixed Breed,Cream,NoColor,Kuala Lumpur,2.0,2.0,2.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,5.0,0
+Cat,Male,Domestic Short Hair,Gray,White,Selangor,12.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,2.0,1
+Dog,Male,German Shepherd Dog,Gray,NoColor,Kuala Lumpur,1.0,2.0,2.0,2.0,1.0,2.0,1.0,1.0,0.0,0.0,6.0,1
+Cat,Female,Domestic Short Hair,Black,White,Pulau Pinang,9.0,2.0,2.0,2.0,1.0,2.0,1.0,1.0,0.0,0.0,1.0,0
+Cat,Mixed,Dilute Calico,Brown,Golden,Selangor,6.0,2.0,1.0,2.0,2.0,3.0,1.0,4.0,14.0,0.0,5.0,0
+Dog,Female,Mixed Breed,Black,Brown,Selangor,1.0,2.0,2.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,4.0,1
+Cat,Mixed,Domestic Medium Hair,Cream,Gray,Perak,2.0,2.0,2.0,2.0,2.0,2.0,1.0,3.0,0.0,0.0,4.0,0
+Cat,Male,British Shorthair,Golden,Yellow,Kuala Lumpur,4.0,2.0,2.0,1.0,1.0,2.0,1.0,1.0,50.0,2.0,5.0,1
+Cat,Female,Domestic Short Hair,Black,Brown,Selangor,5.0,2.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,6.0,1
+Cat,Female,Domestic Medium Hair,Black,Golden,Johor,1.0,2.0,2.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,3.0,1
+Dog,Female,Mixed Breed,Cream,NoColor,Selangor,1.0,2.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,1.0,1
+Dog,Male,Chihuahua,Brown,NoColor,Johor,50.0,2.0,1.0,2.0,2.0,1.0,1.0,1.0,0.0,0.0,3.0,0
+Cat,Male,Tabby,Golden,NoColor,Selangor,3.0,1.0,1.0,3.0,3.0,3.0,1.0,1.0,0.0,0.0,1.0,0
+Dog,Male,Mixed Breed,Black,NoColor,Johor,12.0,2.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,4.0,1
+Dog,Female,Mixed Breed,Brown,White,Negeri Sembilan,24.0,2.0,1.0,2.0,2.0,2.0,1.0,2.0,0.0,0.0,3.0,1
+Cat,Male,Russian Blue,Gray,NoColor,Selangor,5.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,150.0,0.0,3.0,0
+Cat,Mixed,Domestic Short Hair,Brown,Yellow,Selangor,4.0,1.0,1.0,1.0,1.0,2.0,1.0,3.0,100.0,0.0,3.0,1
+Cat,Female,Domestic Short Hair,Black,NoColor,Perak,212.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,1.0,13.0,1
+Cat,Female,Domestic Medium Hair,Black,NoColor,Pulau Pinang,22.0,2.0,2.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,7.0,0
+Dog,Male,Mixed Breed,Brown,NoColor,Perak,3.0,2.0,2.0,3.0,3.0,3.0,1.0,1.0,0.0,0.0,4.0,1
+Cat,Male,Domestic Short Hair,Yellow,NoColor,Selangor,12.0,3.0,1.0,1.0,1.0,1.0,1.0,1.0,100.0,0.0,4.0,1
+Cat,Female,Domestic Short Hair,Black,Gray,Kuala Lumpur,2.0,1.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,3.0,1
+Cat,Female,Domestic Short Hair,Black,Brown,Negeri Sembilan,36.0,2.0,2.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,4.0,0
+Dog,Mixed,Mixed Breed,Black,White,Kuala Lumpur,2.0,2.0,1.0,2.0,2.0,2.0,1.0,9.0,0.0,0.0,3.0,1
+Cat,Mixed,Domestic Medium Hair,Brown,Yellow,Selangor,2.0,1.0,2.0,2.0,2.0,2.0,1.0,3.0,0.0,0.0,6.0,1
+Dog,Male,Mixed Breed,Golden,NoColor,Kuala Lumpur,7.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,2.0,1
+Cat,Mixed,Domestic Medium Hair,Black,Gray,Kuala Lumpur,1.0,2.0,2.0,2.0,2.0,2.0,1.0,3.0,0.0,0.0,13.0,1
+Cat,Female,Domestic Short Hair,Black,Gray,Selangor,4.0,2.0,1.0,2.0,2.0,2.0,1.0,1.0,10.0,0.0,4.0,1
+Cat,Male,Domestic Medium Hair,Brown,White,Kuala Lumpur,48.0,2.0,2.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,6.0,1
+Dog,Female,Mixed Breed,Brown,NoColor,Selangor,3.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,20.0,0
+Cat,Female,Domestic Short Hair,Black,Yellow,Kuala Lumpur,18.0,1.0,1.0,3.0,1.0,3.0,1.0,1.0,0.0,0.0,2.0,1
+Dog,Female,Mixed Breed,Black,White,Selangor,3.0,2.0,2.0,1.0,1.0,2.0,1.0,2.0,200.0,0.0,5.0,1
+Dog,Female,Mixed Breed,Brown,NoColor,Pulau Pinang,6.0,2.0,1.0,2.0,1.0,2.0,1.0,1.0,0.0,0.0,2.0,1
+Cat,Male,Tuxedo,Black,White,Kuala Lumpur,2.0,1.0,1.0,2.0,1.0,2.0,1.0,1.0,0.0,0.0,1.0,1
+Dog,Male,Poodle,Brown,Golden,Perak,19.0,2.0,2.0,1.0,1.0,2.0,1.0,1.0,100.0,0.0,3.0,1
+Dog,Male,Mixed Breed,Black,NoColor,Selangor,50.0,2.0,2.0,1.0,1.0,1.0,1.0,1.0,80.0,0.0,3.0,0
+Cat,Female,Domestic Short Hair,Black,Brown,Selangor,10.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,23.0,1
+Cat,Female,Domestic Short Hair,Black,Brown,Sarawak,4.0,1.0,2.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,2.0,0
+Dog,Female,Mixed Breed,Black,Brown,Selangor,1.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,5.0,1
+Dog,Female,Mixed Breed,Black,Brown,Kuala Lumpur,4.0,2.0,2.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,1.0,0
+Cat,Male,Domestic Medium Hair,Black,NoColor,Selangor,24.0,2.0,2.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,4.0,1
+Dog,Male,Mixed Breed,Cream,White,Pulau Pinang,17.0,2.0,2.0,1.0,1.0,3.0,1.0,1.0,100.0,0.0,2.0,0
+Dog,Male,Mixed Breed,Black,NoColor,Kuala Lumpur,6.0,2.0,2.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,10.0,1
+Dog,Male,Schnauzer,Gray,NoColor,Kuala Lumpur,60.0,2.0,2.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,3.0,0
+Dog,Female,Mixed Breed,Black,Brown,Selangor,3.0,2.0,1.0,3.0,3.0,3.0,1.0,1.0,0.0,0.0,6.0,1
+Cat,Male,Domestic Short Hair,Gray,White,Kuala Lumpur,3.0,1.0,1.0,2.0,1.0,2.0,1.0,1.0,0.0,0.0,5.0,0
+Cat,Mixed,Domestic Medium Hair,Cream,Gray,Selangor,1.0,1.0,2.0,2.0,2.0,2.0,1.0,5.0,0.0,0.0,3.0,1
+Dog,Female,Mixed Breed,Black,White,Selangor,1.0,2.0,1.0,3.0,1.0,2.0,1.0,1.0,0.0,0.0,3.0,0
+Cat,Male,Domestic Short Hair,Black,Gray,Selangor,11.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,3.0,0
+Cat,Female,Norwegian Forest Cat,Cream,Gray,Kuala Lumpur,4.0,2.0,3.0,3.0,3.0,2.0,1.0,1.0,0.0,0.0,1.0,1
+Cat,Female,Domestic Medium Hair,Black,White,Selangor,2.0,2.0,2.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,3.0,0
+Dog,Male,Golden Retriever,Brown,NoColor,Selangor,24.0,3.0,2.0,3.0,3.0,3.0,1.0,1.0,0.0,0.0,4.0,1
+Cat,Female,Domestic Short Hair,Brown,Golden,Selangor,4.0,2.0,1.0,2.0,2.0,2.0,1.0,2.0,0.0,0.0,1.0,1
+Dog,Female,Mixed Breed,Brown,White,Selangor,48.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,4.0,0
+Dog,Male,Mixed Breed,Black,NoColor,Selangor,1.0,2.0,1.0,1.0,1.0,2.0,1.0,2.0,0.0,0.0,4.0,1
+Cat,Female,Tabby,Brown,White,Johor,3.0,2.0,1.0,3.0,3.0,3.0,1.0,1.0,0.0,0.0,3.0,1
+Dog,Female,Mixed Breed,Brown,NoColor,Selangor,1.0,2.0,1.0,2.0,1.0,2.0,1.0,1.0,0.0,0.0,11.0,1
+Cat,Female,Domestic Medium Hair,Brown,Gray,Selangor,2.0,2.0,2.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,4.0,1
+Cat,Male,Domestic Medium Hair,Black,White,Selangor,6.0,2.0,2.0,3.0,3.0,3.0,1.0,1.0,0.0,0.0,2.0,1
+Cat,Female,Domestic Medium Hair,Yellow,White,Selangor,24.0,2.0,2.0,2.0,1.0,2.0,1.0,1.0,0.0,0.0,2.0,1
+Dog,Female,Mixed Breed,Black,NoColor,Pulau Pinang,2.0,2.0,1.0,2.0,1.0,2.0,1.0,1.0,0.0,0.0,4.0,1
+Dog,Female,Golden Retriever,Brown,NoColor,Perak,4.0,2.0,3.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,2.0,0
+Cat,Female,Domestic Medium Hair,Golden,Cream,Kuala Lumpur,3.0,2.0,2.0,2.0,2.0,2.0,1.0,1.0,50.0,0.0,0.0,1
+Cat,Male,Domestic Short Hair,Black,Brown,Pahang,1.0,1.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,2.0,1
+Dog,Female,Rottweiler,Black,Brown,Selangor,1.0,2.0,2.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,6.0,1
+Dog,Female,Poodle,Cream,NoColor,Melaka,36.0,2.0,2.0,1.0,3.0,1.0,1.0,1.0,0.0,0.0,2.0,1
+Dog,Female,Mixed Breed,Brown,NoColor,Johor,4.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,2.0,0
+Dog,Male,Mixed Breed,Black,Brown,Kuala Lumpur,8.0,2.0,1.0,3.0,3.0,2.0,1.0,1.0,0.0,0.0,2.0,1
+Cat,Male,Domestic Short Hair,Black,Gray,Selangor,1.0,2.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,2.0,1
+Dog,Female,Miniature Pinscher,Black,Brown,Selangor,36.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,1.0,1
+Cat,Mixed,Tabby,Brown,Gray,Kuala Lumpur,3.0,1.0,2.0,2.0,2.0,2.0,1.0,2.0,0.0,0.0,2.0,0
+Dog,Male,Mixed Breed,Brown,NoColor,Kuala Lumpur,24.0,2.0,2.0,3.0,3.0,1.0,1.0,1.0,0.0,0.0,0.0,0
+Dog,Female,Mixed Breed,Brown,Cream,Selangor,36.0,3.0,1.0,2.0,2.0,1.0,1.0,1.0,0.0,0.0,2.0,0
+Cat,Female,Tabby,Gray,NoColor,Selangor,24.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,4.0,1
+Cat,Female,Domestic Medium Hair,Black,Brown,Selangor,3.0,2.0,2.0,1.0,1.0,2.0,1.0,1.0,60.0,0.0,5.0,1
+Dog,Female,Labrador Retriever,Brown,NoColor,Selangor,1.0,2.0,1.0,3.0,3.0,2.0,1.0,1.0,0.0,0.0,1.0,1
+Dog,Female,Mixed Breed,Black,Brown,Johor,2.0,2.0,2.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,1.0,1
+Dog,Female,Mixed Breed,Brown,NoColor,Kuala Lumpur,2.0,1.0,1.0,3.0,3.0,3.0,1.0,2.0,0.0,0.0,1.0,1
+Cat,Female,Domestic Short Hair,Brown,Cream,Kuala Lumpur,4.0,2.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,2.0,0
+Dog,Male,Shih Tzu,Cream,White,Selangor,36.0,1.0,2.0,1.0,1.0,2.0,2.0,1.0,0.0,0.0,1.0,1
+Dog,Male,Labrador Retriever,Brown,NoColor,Pulau Pinang,3.0,2.0,1.0,3.0,3.0,3.0,1.0,1.0,0.0,0.0,2.0,1
+Cat,Female,Domestic Short Hair,White,NoColor,Kuala Lumpur,4.0,2.0,1.0,2.0,2.0,1.0,1.0,1.0,100.0,0.0,5.0,0
+Cat,Female,Domestic Short Hair,Black,Gray,Selangor,5.0,2.0,2.0,1.0,1.0,3.0,1.0,1.0,0.0,0.0,5.0,1
+Cat,Female,Domestic Short Hair,Black,Brown,Selangor,1.0,2.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,3.0,1
+Cat,Female,Domestic Short Hair,Yellow,Gray,Selangor,3.0,3.0,1.0,1.0,1.0,1.0,1.0,1.0,100.0,0.0,2.0,0
+Cat,Female,American Shorthair,Cream,White,Selangor,4.0,1.0,2.0,1.0,1.0,2.0,1.0,1.0,80.0,0.0,13.0,1
+Dog,Male,Dalmatian,Black,White,Kuala Lumpur,2.0,2.0,2.0,2.0,1.0,2.0,1.0,1.0,0.0,0.0,5.0,1
+Dog,Male,Mixed Breed,Black,NoColor,Selangor,2.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,4.0,1
+Dog,Female,Mixed Breed,White,NoColor,Selangor,0.0,3.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0,1
+Cat,Male,Tabby,Black,Gray,Selangor,4.0,2.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,5.0,1
+Cat,Female,Domestic Short Hair,Gray,White,Kuala Lumpur,8.0,2.0,1.0,3.0,3.0,3.0,1.0,1.0,0.0,0.0,5.0,1
+Cat,Female,Domestic Short Hair,Brown,NoColor,Kuala Lumpur,24.0,3.0,1.0,2.0,2.0,2.0,1.0,6.0,0.0,0.0,4.0,1
+Cat,Male,Domestic Medium Hair,Golden,NoColor,Kuala Lumpur,3.0,2.0,2.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,3.0,1
+Dog,Mixed,Mixed Breed,Black,Brown,Kuala Lumpur,1.0,1.0,1.0,2.0,2.0,3.0,2.0,2.0,0.0,0.0,5.0,0
+Cat,Female,Domestic Medium Hair,Black,White,Kuala Lumpur,1.0,2.0,2.0,3.0,1.0,3.0,1.0,1.0,0.0,0.0,3.0,1
+Cat,Female,Domestic Medium Hair,Black,Gray,Kuala Lumpur,4.0,2.0,2.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,1.0,0
+Cat,Female,Domestic Medium Hair,Black,Yellow,Selangor,1.0,2.0,3.0,2.0,1.0,2.0,1.0,1.0,0.0,2.0,10.0,1
+Dog,Male,Mixed Breed,Black,NoColor,Selangor,2.0,2.0,1.0,2.0,1.0,2.0,1.0,1.0,0.0,0.0,3.0,1
+Dog,Female,Mixed Breed,Black,Brown,Selangor,3.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,4.0,1
+Dog,Female,Mixed Breed,Cream,White,Selangor,1.0,2.0,2.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,10.0,1
+Cat,Male,Domestic Short Hair,Black,White,Selangor,1.0,2.0,1.0,3.0,3.0,3.0,1.0,1.0,0.0,0.0,4.0,1
+Dog,Male,Mixed Breed,Black,Brown,Selangor,2.0,2.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,7.0,1
+Dog,Female,Mixed Breed,Black,Yellow,Selangor,2.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,5.0,1
+Dog,Female,Mixed Breed,Yellow,NoColor,Selangor,2.0,2.0,2.0,3.0,2.0,3.0,1.0,1.0,0.0,0.0,5.0,0
+Cat,Female,Persian,Black,Brown,Selangor,36.0,2.0,3.0,2.0,2.0,1.0,1.0,1.0,200.0,0.0,2.0,1
+Dog,Female,Mixed Breed,Brown,White,Kuala Lumpur,2.0,2.0,2.0,3.0,1.0,3.0,1.0,1.0,0.0,0.0,1.0,1
+Dog,Male,Beagle,Black,Brown,Kuala Lumpur,108.0,2.0,2.0,1.0,2.0,2.0,1.0,1.0,0.0,0.0,4.0,1
+Cat,Male,American Shorthair,Black,Gray,Selangor,10.0,2.0,2.0,1.0,2.0,2.0,1.0,1.0,0.0,0.0,3.0,1
+Cat,Female,Burmese,Golden,White,Selangor,16.0,3.0,2.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,2.0,0
+Cat,Female,Domestic Medium Hair,Black,Yellow,Selangor,2.0,2.0,2.0,2.0,2.0,2.0,1.0,1.0,100.0,0.0,3.0,1
+Cat,Female,Domestic Short Hair,Yellow,White,Pulau Pinang,4.0,2.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,2.0,1
+Cat,Mixed,Domestic Short Hair,Black,Gray,Kuala Lumpur,3.0,2.0,1.0,2.0,2.0,2.0,1.0,5.0,0.0,0.0,8.0,1
+Dog,Mixed,Mixed Breed,Black,Brown,Johor,2.0,2.0,1.0,2.0,2.0,2.0,1.0,6.0,0.0,0.0,20.0,1
+Cat,Female,Domestic Short Hair,White,NoColor,Kuala Lumpur,7.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,3.0,0
+Dog,Male,Mixed Breed,Brown,Cream,Kuala Lumpur,2.0,2.0,2.0,2.0,1.0,2.0,1.0,1.0,0.0,0.0,1.0,1
+Dog,Female,Mixed Breed,Brown,NoColor,Perak,2.0,2.0,2.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,1.0,1
+Cat,Male,Domestic Short Hair,Golden,White,Selangor,1.0,1.0,1.0,2.0,1.0,2.0,1.0,2.0,0.0,0.0,17.0,1
+Cat,Male,Domestic Short Hair,Black,Brown,Selangor,12.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,17.0,1
+Cat,Female,Domestic Long Hair,Brown,NoColor,Selangor,11.0,2.0,3.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,3.0,0
+Dog,Female,Husky,Gray,NoColor,Perak,3.0,1.0,2.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,2.0,1
+Dog,Female,Mixed Breed,Yellow,NoColor,Selangor,12.0,2.0,2.0,1.0,1.0,2.0,2.0,1.0,0.0,0.0,4.0,1
+Dog,Mixed,Mixed Breed,Brown,NoColor,Selangor,2.0,2.0,1.0,2.0,2.0,2.0,1.0,2.0,0.0,0.0,0.0,1
+Cat,Female,Domestic Short Hair,Black,White,Selangor,2.0,1.0,1.0,2.0,3.0,2.0,1.0,1.0,0.0,0.0,1.0,1
+Cat,Mixed,Calico,Black,Yellow,Selangor,2.0,2.0,2.0,2.0,2.0,2.0,1.0,2.0,0.0,0.0,5.0,1
+Cat,Male,Domestic Long Hair,Black,White,Kuala Lumpur,2.0,1.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,3.0,1
+Cat,Female,Domestic Short Hair,Black,Golden,Selangor,3.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,10.0,1
+Dog,Mixed,Mixed Breed,Brown,Cream,Selangor,2.0,1.0,1.0,2.0,1.0,2.0,1.0,10.0,0.0,0.0,8.0,1
+Dog,Female,Mixed Breed,Brown,NoColor,Negeri Sembilan,1.0,2.0,2.0,2.0,2.0,2.0,1.0,2.0,0.0,0.0,1.0,1
+Cat,Male,Domestic Short Hair,Black,Brown,Selangor,1.0,1.0,1.0,2.0,1.0,2.0,1.0,4.0,0.0,0.0,5.0,1
+Cat,Male,Tabby,Gray,NoColor,Selangor,18.0,2.0,1.0,2.0,2.0,2.0,1.0,1.0,50.0,0.0,3.0,1
+Cat,Male,Domestic Short Hair,Golden,NoColor,Kuala Lumpur,12.0,2.0,1.0,2.0,2.0,3.0,1.0,1.0,0.0,0.0,2.0,0
+Cat,Female,Domestic Short Hair,Gray,NoColor,Kuala Lumpur,12.0,1.0,1.0,3.0,1.0,2.0,1.0,1.0,0.0,0.0,5.0,0
+Cat,Mixed,Calico,Black,Golden,Selangor,1.0,2.0,2.0,3.0,3.0,2.0,1.0,5.0,0.0,0.0,1.0,1
+Dog,Female,Mixed Breed,Black,Brown,Selangor,2.0,2.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,6.0,0
+Cat,Female,Domestic Short Hair,Black,Yellow,Kuala Lumpur,3.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,4.0,1
+Dog,Mixed,Siberian Husky,Black,Golden,Selangor,10.0,3.0,3.0,1.0,1.0,1.0,1.0,3.0,0.0,0.0,4.0,1
+Dog,Female,Mixed Breed,Black,Brown,Selangor,36.0,2.0,2.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0,0
+Cat,Female,Siamese,White,NoColor,Selangor,11.0,1.0,1.0,2.0,1.0,1.0,1.0,2.0,0.0,0.0,3.0,0
+Dog,Female,Mixed Breed,Black,Brown,Pulau Pinang,2.0,2.0,2.0,2.0,2.0,2.0,1.0,1.0,20.0,0.0,1.0,1
+Cat,Female,Domestic Short Hair,Brown,White,Selangor,1.0,2.0,1.0,3.0,3.0,2.0,1.0,1.0,0.0,0.0,3.0,1
+Cat,Mixed,Bengal,Black,Brown,Selangor,1.0,1.0,1.0,2.0,2.0,2.0,1.0,3.0,0.0,0.0,4.0,1
+Dog,Female,Mixed Breed,Golden,NoColor,Selangor,12.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,3.0,0
+Dog,Male,Mixed Breed,Brown,NoColor,Perak,3.0,2.0,2.0,1.0,1.0,2.0,1.0,1.0,1.0,0.0,7.0,1
+Dog,Female,Mixed Breed,White,NoColor,Selangor,12.0,2.0,2.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,5.0,1
+Dog,Female,Mixed Breed,Black,Brown,Selangor,4.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,2.0,1
+Dog,Male,Mixed Breed,Black,Brown,Johor,7.0,2.0,1.0,1.0,1.0,3.0,1.0,1.0,0.0,0.0,0.0,0
+Dog,Female,German Shepherd Dog,Black,Gray,Kedah,3.0,3.0,2.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,2.0,1
+Cat,Mixed,Siamese,Brown,NoColor,Selangor,12.0,2.0,1.0,3.0,1.0,2.0,1.0,6.0,0.0,0.0,3.0,1
+Dog,Mixed,Mixed Breed,Brown,Yellow,Negeri Sembilan,2.0,2.0,1.0,2.0,2.0,3.0,1.0,2.0,0.0,0.0,3.0,1
+Cat,Female,Bengal,Black,Golden,Selangor,3.0,2.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,3.0,1
+Cat,Mixed,Domestic Short Hair,Brown,Golden,Johor,12.0,2.0,1.0,2.0,1.0,1.0,1.0,2.0,0.0,0.0,5.0,0
+Dog,Male,Mixed Breed,Brown,NoColor,Selangor,2.0,2.0,2.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,5.0,1
+Cat,Mixed,Domestic Short Hair,Black,Brown,Kuala Lumpur,12.0,2.0,1.0,3.0,3.0,3.0,1.0,2.0,0.0,0.0,2.0,0
+Cat,Female,Calico,Black,Golden,Selangor,1.0,2.0,1.0,2.0,1.0,2.0,1.0,1.0,0.0,0.0,6.0,1
+Dog,Female,Mixed Breed,Brown,NoColor,Selangor,12.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,3.0,1
+Dog,Male,Mixed Breed,Brown,Golden,Selangor,2.0,1.0,1.0,2.0,2.0,3.0,1.0,3.0,0.0,0.0,1.0,1
+Dog,Female,Poodle,Cream,White,Selangor,60.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,3.0,1
+Cat,Mixed,Domestic Long Hair,Black,NoColor,Selangor,4.0,1.0,3.0,2.0,2.0,2.0,1.0,2.0,50.0,0.0,4.0,1
+Cat,Male,Domestic Short Hair,Black,Brown,Johor,2.0,1.0,2.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,2.0,1
+Dog,Female,Mixed Breed,Brown,NoColor,Selangor,4.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,5.0,1
+Dog,Male,Mixed Breed,Black,Brown,Selangor,3.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,50.0,0.0,4.0,1
+Cat,Female,Domestic Short Hair,Black,Yellow,Kuala Lumpur,2.0,2.0,1.0,2.0,1.0,2.0,1.0,1.0,0.0,0.0,15.0,1
+Dog,Female,Poodle,Brown,NoColor,Selangor,60.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,200.0,2.0,7.0,1
+Cat,Male,Bobtail,Black,Gray,Selangor,4.0,2.0,2.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,7.0,1
+Dog,Male,Mixed Breed,Black,Brown,Selangor,12.0,2.0,2.0,3.0,3.0,3.0,1.0,1.0,0.0,0.0,6.0,0
+Cat,Male,Domestic Short Hair,Brown,Cream,Kuala Lumpur,2.0,1.0,1.0,2.0,1.0,2.0,1.0,1.0,0.0,0.0,3.0,1
+Dog,Male,Schnauzer,Gray,White,Johor,3.0,1.0,2.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,5.0,1
+Dog,Female,Mixed Breed,Cream,NoColor,Selangor,4.0,2.0,2.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,2.0,0
+Cat,Female,Domestic Medium Hair,Black,NoColor,Selangor,1.0,1.0,2.0,2.0,2.0,2.0,1.0,1.0,100.0,0.0,5.0,1
+Dog,Mixed,Mixed Breed,Brown,White,Selangor,2.0,2.0,2.0,2.0,2.0,2.0,1.0,3.0,0.0,0.0,3.0,1
+Dog,Female,Mixed Breed,Black,Brown,Kuala Lumpur,2.0,2.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,4.0,1
+Dog,Male,Mixed Breed,Brown,NoColor,Selangor,2.0,2.0,2.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,2.0,1
+Cat,Female,Domestic Short Hair,Black,Brown,Pulau Pinang,12.0,1.0,1.0,3.0,3.0,3.0,1.0,1.0,0.0,0.0,1.0,0
+Dog,Female,Mixed Breed,Brown,White,Selangor,42.0,3.0,2.0,1.0,3.0,3.0,1.0,1.0,0.0,0.0,2.0,1
+Cat,Mixed,Domestic Short Hair,Black,Brown,Selangor,8.0,2.0,1.0,2.0,2.0,2.0,1.0,3.0,50.0,0.0,14.0,0
+Cat,Mixed,Domestic Short Hair,Brown,Golden,Kuala Lumpur,1.0,2.0,1.0,2.0,2.0,2.0,1.0,2.0,0.0,0.0,14.0,0
+Dog,Mixed,Mixed Breed,Black,Brown,Selangor,2.0,1.0,2.0,1.0,1.0,3.0,1.0,2.0,0.0,0.0,5.0,0
+Dog,Male,Mixed Breed,Black,White,Pulau Pinang,2.0,2.0,2.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,5.0,1
+Dog,Female,Mixed Breed,Brown,NoColor,Pulau Pinang,2.0,2.0,1.0,2.0,2.0,2.0,1.0,1.0,20.0,0.0,1.0,1
+Cat,Female,Domestic Short Hair,Black,Yellow,Kuala Lumpur,36.0,2.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,5.0,0
+Dog,Male,Mixed Breed,Black,Brown,Kuala Lumpur,1.0,2.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,5.0,1
+Dog,Female,Mixed Breed,Brown,NoColor,Kuala Lumpur,36.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,3.0,0
+Cat,Male,Domestic Short Hair,Black,White,Kuala Lumpur,9.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,3.0,0
+Dog,Female,Mixed Breed,Black,White,Pulau Pinang,12.0,2.0,1.0,2.0,2.0,2.0,1.0,1.0,20.0,0.0,1.0,0
+Dog,Female,Mixed Breed,Brown,NoColor,Selangor,6.0,2.0,1.0,3.0,3.0,3.0,1.0,1.0,0.0,0.0,3.0,0
+Cat,Female,Domestic Medium Hair,Black,Brown,Selangor,4.0,2.0,2.0,1.0,1.0,3.0,1.0,1.0,0.0,0.0,3.0,1
+Cat,Female,Domestic Short Hair,Brown,NoColor,Selangor,1.0,1.0,1.0,2.0,1.0,2.0,1.0,6.0,0.0,0.0,1.0,1
+Dog,Female,Chihuahua,Black,Golden,Pulau Pinang,36.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,400.0,0.0,9.0,1
+Cat,Female,Domestic Long Hair,Black,Brown,Johor,4.0,2.0,3.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,3.0,1
+Cat,Male,Domestic Short Hair,Black,Brown,Selangor,2.0,1.0,1.0,2.0,1.0,2.0,1.0,1.0,50.0,0.0,5.0,1
+Cat,Mixed,Extra-Toes Cat (Hemingway Polydactyl),Black,Yellow,Selangor,3.0,2.0,1.0,2.0,2.0,2.0,1.0,7.0,0.0,0.0,3.0,1
+Cat,Female,Domestic Short Hair,Black,Yellow,Selangor,6.0,2.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,2.0,0
+Dog,Female,Beagle,Black,Golden,Selangor,24.0,2.0,1.0,3.0,3.0,3.0,2.0,1.0,0.0,0.0,1.0,1
+Dog,Female,Mixed Breed,Brown,Golden,Selangor,10.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,80.0,0.0,6.0,0
+Dog,Male,Mixed Breed,Brown,White,Selangor,12.0,2.0,1.0,3.0,3.0,1.0,1.0,1.0,0.0,0.0,4.0,1
+Dog,Male,Mixed Breed,Cream,NoColor,Selangor,3.0,2.0,2.0,3.0,3.0,2.0,1.0,1.0,0.0,0.0,3.0,1
+Cat,Female,Domestic Short Hair,Gray,NoColor,Selangor,1.0,1.0,1.0,2.0,1.0,2.0,1.0,1.0,0.0,0.0,2.0,1
+Cat,Female,Russian Blue,Gray,White,Selangor,2.0,2.0,1.0,2.0,1.0,2.0,1.0,1.0,50.0,0.0,8.0,1
+Cat,Female,Domestic Short Hair,Black,NoColor,Selangor,9.0,2.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,5.0,1
+Cat,Female,Domestic Short Hair,Golden,Yellow,Selangor,1.0,2.0,1.0,2.0,2.0,2.0,1.0,3.0,0.0,0.0,5.0,1
+Dog,Mixed,Mixed Breed,Black,Yellow,Kuala Lumpur,1.0,1.0,1.0,1.0,1.0,2.0,1.0,3.0,0.0,0.0,9.0,1
+Dog,Female,Golden Retriever,Yellow,Cream,Selangor,9.0,2.0,2.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,1.0,1
+Dog,Female,Mixed Breed,Cream,NoColor,Perak,12.0,2.0,2.0,1.0,1.0,1.0,1.0,1.0,0.0,3.0,11.0,1
+Dog,Female,Mixed Breed,White,NoColor,Kuala Lumpur,2.0,2.0,2.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,2.0,1
+Cat,Mixed,Calico,Black,Cream,Selangor,3.0,2.0,2.0,2.0,2.0,2.0,1.0,2.0,0.0,0.0,5.0,0
+Cat,Female,Persian,Black,Brown,Kuala Lumpur,24.0,2.0,2.0,3.0,3.0,2.0,1.0,1.0,0.0,0.0,2.0,1
+Dog,Male,Mixed Breed,Brown,NoColor,Selangor,12.0,2.0,1.0,3.0,3.0,3.0,1.0,1.0,0.0,0.0,2.0,1
+Cat,Female,Domestic Short Hair,Black,Brown,Kuala Lumpur,12.0,2.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,1.0,1
+Cat,Female,Oriental Short Hair,Gray,NoColor,Selangor,2.0,1.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,3.0,0
+Cat,Female,Siamese,Brown,Golden,Selangor,12.0,2.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,4.0,1
+Dog,Male,Mixed Breed,Black,White,Johor,2.0,2.0,1.0,2.0,2.0,2.0,1.0,1.0,1.0,0.0,9.0,1
+Dog,Female,Mixed Breed,Black,Brown,Selangor,2.0,2.0,2.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,1.0,1
+Cat,Female,Calico,Brown,Yellow,Selangor,4.0,2.0,2.0,1.0,1.0,2.0,1.0,1.0,150.0,0.0,1.0,1
+Cat,Female,Domestic Medium Hair,Black,Yellow,Pulau Pinang,1.0,2.0,2.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,3.0,1
+Dog,Male,Mixed Breed,Black,Brown,Selangor,4.0,2.0,2.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,2.0,1
+Dog,Female,Mixed Breed,Brown,NoColor,Pulau Pinang,2.0,1.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,3.0,0
+Cat,Mixed,Tabby,Yellow,Gray,Selangor,2.0,1.0,2.0,2.0,2.0,2.0,1.0,2.0,0.0,1.0,2.0,1
+Cat,Male,Domestic Short Hair,Brown,NoColor,Selangor,6.0,2.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.0,2.0,1
+Cat,Female,Domestic Short Hair,Black,White,Pulau Pinang,3.0,1.0,1.0,2.0,1.0,2.0,1.0,3.0,0.0,0.0,7.0,1
+Dog,Female,Labrador Retriever,Golden,Cream,Selangor,5.0,2.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.0,2.0,1
+Cat,Female,Tiger,Black,White,Selangor,3.0,1.0,1.0,3.0,3.0,3.0,1.0,1.0,0.0,0.0,7.0,1
+Dog,Female,Mixed Breed,Brown,White,Pulau Pinang,1.0,2.0,3.0,2.0,2.0,2.0,2.0,1.0,20.0,0.0,2.0,1
+Dog,Female,Mixed Breed,Brown,NoColor,Johor,3.0,2.0,1.0,2.0,1.0,2.0,1.0,1.0,0.0,0.0,3.0,1
+Dog,Female,Schnauzer,Black,Cream,Selangor,60.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,300.0,0.0,2.0,1
+Dog,Female,Mixed Breed,Black,Brown,Selangor,1.0,2.0,1.0,2.0,1.0,2.0,1.0,1.0,0.0,0.0,4.0,1
+Cat,Female,Domestic Short Hair,Brown,Yellow,Selangor,24.0,2.0,1.0,2.0,2.0,1.0,1.0,1.0,0.0,0.0,1.0,0
+Cat,Female,Domestic Short Hair,Black,White,Kuala Lumpur,1.0,2.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,1.0,0
+Dog,Female,Mixed Breed,Black,Brown,Pulau Pinang,2.0,2.0,2.0,2.0,1.0,2.0,1.0,1.0,0.0,0.0,2.0,1
+Dog,Female,Mixed Breed,Black,Brown,Selangor,1.0,2.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,5.0,0
+Dog,Female,Mixed Breed,Brown,Golden,Selangor,1.0,2.0,1.0,2.0,2.0,2.0,1.0,2.0,0.0,1.0,2.0,0
+Cat,Female,Domestic Long Hair,Brown,Yellow,Selangor,4.0,2.0,3.0,1.0,1.0,2.0,1.0,1.0,50.0,0.0,5.0,1
+Cat,Female,Domestic Short Hair,Black,NoColor,Kuala Lumpur,3.0,2.0,1.0,3.0,3.0,3.0,1.0,1.0,0.0,0.0,1.0,1
+Dog,Female,Mixed Breed,Brown,NoColor,Selangor,3.0,2.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,4.0,0
+Cat,Female,Domestic Short Hair,Black,Brown,Selangor,17.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,5.0,0
+Dog,Female,Terrier,Brown,White,Selangor,2.0,2.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,2.0,1
+Dog,Male,Mixed Breed,Cream,NoColor,Selangor,36.0,2.0,2.0,1.0,1.0,1.0,1.0,5.0,0.0,0.0,1.0,0
+Dog,Mixed,Mixed Breed,Black,White,Selangor,2.0,2.0,1.0,1.0,1.0,2.0,1.0,2.0,0.0,0.0,2.0,1
+Dog,Mixed,Mixed Breed,Black,Brown,Selangor,1.0,2.0,1.0,2.0,2.0,2.0,1.0,4.0,0.0,0.0,5.0,1
+Dog,Male,Mixed Breed,Black,Brown,Selangor,2.0,2.0,2.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,3.0,1
+Dog,Female,Mixed Breed,Black,Brown,Selangor,1.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,9.0,1
+Dog,Male,Dalmatian,Black,White,Selangor,48.0,2.0,1.0,1.0,1.0,1.0,2.0,1.0,0.0,0.0,4.0,0
+Cat,Female,Tabby,Black,Yellow,Selangor,7.0,2.0,2.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,1.0,0
+Cat,Female,Domestic Short Hair,Black,Gray,Kuala Lumpur,6.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,50.0,1.0,10.0,1
+Cat,Mixed,Domestic Short Hair,Black,Brown,Kuala Lumpur,4.0,2.0,1.0,1.0,1.0,2.0,1.0,4.0,0.0,0.0,9.0,1
+Cat,Female,Domestic Short Hair,Black,Yellow,Selangor,24.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,50.0,0.0,5.0,1
+Cat,Male,Domestic Short Hair,Brown,Golden,Selangor,4.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,24.0,1
+Cat,Male,Bengal,Black,Gray,Selangor,1.0,2.0,1.0,2.0,1.0,2.0,1.0,1.0,0.0,1.0,6.0,1
+Cat,Female,Domestic Short Hair,Black,White,Johor,2.0,2.0,1.0,1.0,3.0,3.0,1.0,1.0,5.0,0.0,3.0,1
+Cat,Female,Domestic Short Hair,Golden,Gray,Selangor,4.0,2.0,1.0,2.0,1.0,1.0,1.0,1.0,9.0,1.0,7.0,1
+Cat,Female,Domestic Short Hair,Golden,White,Selangor,4.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,1.0,1.0,1
+Dog,Male,Terrier,Brown,White,Selangor,12.0,2.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,1.0,0
+Cat,Female,Domestic Short Hair,Yellow,Cream,Kuala Lumpur,2.0,1.0,1.0,3.0,3.0,3.0,1.0,1.0,0.0,0.0,2.0,1
+Dog,Male,Mixed Breed,Brown,NoColor,Pulau Pinang,1.0,2.0,1.0,2.0,2.0,2.0,1.0,1.0,20.0,0.0,1.0,1
+Cat,Male,Tuxedo,Black,White,Selangor,4.0,3.0,1.0,2.0,1.0,2.0,1.0,1.0,0.0,0.0,9.0,1
+Dog,Male,Mixed Breed,Brown,White,Kuala Lumpur,24.0,2.0,1.0,3.0,3.0,3.0,1.0,1.0,0.0,0.0,5.0,0
+Cat,Female,Tabby,Yellow,White,Kuala Lumpur,4.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,7.0,1
+Cat,Male,Domestic Short Hair,Black,Gray,Selangor,6.0,2.0,1.0,1.0,1.0,1.0,2.0,1.0,0.0,0.0,8.0,1
+Dog,Female,Mixed Breed,Cream,White,Selangor,2.0,3.0,1.0,1.0,1.0,2.0,1.0,1.0,50.0,0.0,4.0,1
+Dog,Male,Mixed Breed,Black,NoColor,Kuala Lumpur,60.0,2.0,2.0,2.0,2.0,3.0,1.0,2.0,1.0,0.0,1.0,0
+Dog,Female,Cavalier King Charles Spaniel,Brown,White,Pulau Pinang,96.0,1.0,1.0,1.0,1.0,3.0,1.0,1.0,0.0,0.0,2.0,1
+Dog,Male,Mixed Breed,Brown,Golden,Kuala Lumpur,48.0,2.0,2.0,2.0,3.0,2.0,1.0,1.0,0.0,0.0,1.0,0
+Cat,Female,Domestic Medium Hair,Brown,Cream,Johor,6.0,2.0,3.0,3.0,3.0,2.0,1.0,1.0,0.0,0.0,3.0,1
+Dog,Female,Maltese,White,NoColor,Johor,48.0,1.0,3.0,1.0,1.0,2.0,1.0,1.0,300.0,0.0,2.0,1
+Dog,Female,Mixed Breed,Brown,NoColor,Selangor,2.0,2.0,2.0,2.0,1.0,2.0,1.0,1.0,0.0,0.0,11.0,1
+Dog,Female,Dalmatian,Black,White,Selangor,1.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,27.0,0
+Cat,Male,Tabby,Black,Gray,Selangor,6.0,2.0,2.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,6.0,0
+Dog,Mixed,Mixed Breed,Black,Brown,Johor,1.0,2.0,1.0,3.0,3.0,3.0,1.0,11.0,0.0,0.0,1.0,1
+Cat,Female,Domestic Short Hair,Gray,White,Selangor,36.0,1.0,1.0,3.0,3.0,3.0,1.0,1.0,0.0,0.0,2.0,1
+Cat,Male,Domestic Short Hair,Black,NoColor,Kuala Lumpur,0.0,1.0,1.0,3.0,3.0,3.0,1.0,1.0,0.0,0.0,1.0,0
+Cat,Female,Domestic Medium Hair,Black,NoColor,Selangor,4.0,2.0,2.0,2.0,1.0,2.0,1.0,1.0,0.0,0.0,2.0,1
+Cat,Mixed,Domestic Medium Hair,Cream,Gray,Selangor,5.0,2.0,2.0,2.0,2.0,2.0,1.0,3.0,0.0,0.0,12.0,1
+Dog,Male,Schnauzer,White,NoColor,Kuala Lumpur,36.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,1.0,1
+Dog,Mixed,Mixed Breed,Black,Brown,Selangor,1.0,3.0,2.0,2.0,2.0,2.0,1.0,9.0,0.0,0.0,5.0,1
+Dog,Male,Beagle,Black,Brown,Selangor,36.0,2.0,2.0,3.0,3.0,2.0,1.0,1.0,0.0,0.0,1.0,1
+Cat,Female,Domestic Short Hair,Black,Gray,Kuala Lumpur,2.0,2.0,1.0,3.0,1.0,3.0,1.0,1.0,0.0,0.0,1.0,1
+Cat,Female,American Shorthair,Black,Gray,Kuala Lumpur,11.0,2.0,2.0,3.0,3.0,2.0,1.0,1.0,250.0,0.0,3.0,0
+Cat,Male,Domestic Short Hair,Brown,White,Kuala Lumpur,5.0,2.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,1.0,1
+Cat,Mixed,Balinese,Black,Gray,Kuala Lumpur,1.0,1.0,1.0,2.0,2.0,2.0,1.0,6.0,0.0,0.0,2.0,1
+Cat,Mixed,Domestic Short Hair,Black,Gray,Selangor,2.0,2.0,2.0,2.0,2.0,2.0,1.0,4.0,0.0,0.0,3.0,1
+Cat,Mixed,Domestic Short Hair,White,NoColor,Pulau Pinang,2.0,1.0,1.0,2.0,2.0,2.0,1.0,3.0,0.0,0.0,5.0,0
+Dog,Mixed,Mixed Breed,Brown,Cream,Selangor,4.0,2.0,1.0,2.0,2.0,2.0,1.0,5.0,0.0,0.0,6.0,1
+Dog,Female,Dalmatian,Black,White,Kuala Lumpur,8.0,1.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,4.0,11.0,0
+Dog,Male,Pekingese,Brown,NoColor,Selangor,24.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,3.0,1
+Cat,Female,Domestic Short Hair,Black,Brown,Selangor,12.0,2.0,1.0,2.0,3.0,1.0,1.0,1.0,0.0,0.0,1.0,0
+Dog,Male,Mixed Breed,Black,Brown,Selangor,3.0,2.0,2.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,2.0,0
+Dog,Male,Mixed Breed,Black,Brown,Selangor,1.0,2.0,2.0,2.0,1.0,2.0,1.0,1.0,80.0,2.0,10.0,1
+Cat,Female,Domestic Short Hair,White,NoColor,Kuala Lumpur,8.0,2.0,1.0,2.0,2.0,2.0,1.0,2.0,0.0,0.0,2.0,0
+Dog,Female,Mixed Breed,Black,NoColor,Selangor,19.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,80.0,0.0,3.0,0
+Cat,Female,Domestic Short Hair,Black,White,Kuala Lumpur,4.0,1.0,1.0,3.0,3.0,3.0,2.0,1.0,0.0,0.0,1.0,0
+Dog,Female,Mixed Breed,Black,Brown,Selangor,2.0,2.0,1.0,3.0,3.0,2.0,1.0,1.0,0.0,0.0,3.0,1
+Dog,Female,Mixed Breed,Brown,NoColor,Selangor,2.0,2.0,2.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,5.0,1
+Dog,Female,Mixed Breed,Black,Cream,Selangor,30.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0,1
+Cat,Mixed,Domestic Short Hair,Golden,NoColor,Selangor,2.0,2.0,1.0,2.0,2.0,1.0,1.0,3.0,0.0,0.0,1.0,1
+Cat,Male,American Shorthair,Black,Gray,Negeri Sembilan,10.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,70.0,0.0,2.0,1
+Dog,Female,Mixed Breed,Brown,NoColor,Selangor,36.0,2.0,1.0,3.0,2.0,2.0,1.0,2.0,50.0,0.0,2.0,0
+Dog,Female,Mixed Breed,White,NoColor,Selangor,2.0,2.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,2.0,1
+Cat,Female,Domestic Short Hair,Black,Gray,Kuala Lumpur,36.0,2.0,2.0,2.0,2.0,1.0,1.0,1.0,0.0,0.0,4.0,0
+Dog,Male,Mixed Breed,Brown,NoColor,Kuala Lumpur,24.0,2.0,1.0,3.0,3.0,3.0,1.0,1.0,0.0,0.0,1.0,0
+Dog,Male,Mixed Breed,Yellow,Cream,Selangor,4.0,2.0,1.0,2.0,2.0,2.0,2.0,1.0,30.0,4.0,6.0,0
+Dog,Female,Mixed Breed,Gray,NoColor,Selangor,2.0,2.0,1.0,3.0,3.0,3.0,3.0,1.0,0.0,0.0,0.0,1
+Dog,Male,Mixed Breed,Black,Brown,Selangor,48.0,2.0,2.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,2.0,1
+Dog,Male,Mixed Breed,Brown,NoColor,Selangor,2.0,2.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,1.0,1
+Dog,Female,Mixed Breed,Black,Brown,Selangor,2.0,3.0,1.0,3.0,3.0,3.0,1.0,3.0,0.0,0.0,1.0,1
+Cat,Male,Domestic Medium Hair,Brown,White,Selangor,2.0,1.0,1.0,2.0,2.0,2.0,2.0,1.0,0.0,0.0,9.0,1
+Cat,Mixed,Tabby,Brown,White,Selangor,12.0,1.0,1.0,2.0,2.0,2.0,1.0,5.0,0.0,0.0,6.0,1
+Cat,Female,Domestic Short Hair,Gray,White,Selangor,1.0,2.0,2.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,5.0,1
+Dog,Female,Mixed Breed,Brown,NoColor,Selangor,9.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,9.0,0
+Dog,Male,Mixed Breed,Black,Cream,Selangor,12.0,2.0,1.0,3.0,3.0,2.0,1.0,1.0,0.0,0.0,1.0,1
+Cat,Male,Domestic Short Hair,Black,White,Kuala Lumpur,1.0,2.0,1.0,2.0,1.0,2.0,1.0,1.0,0.0,0.0,2.0,1
+Cat,Female,Domestic Short Hair,Golden,Yellow,Terengganu,5.0,2.0,1.0,2.0,1.0,2.0,1.0,1.0,10.0,0.0,2.0,0
+Cat,Male,Domestic Medium Hair,Golden,Cream,Perak,5.0,2.0,2.0,2.0,1.0,2.0,1.0,1.0,0.0,0.0,1.0,0
+Cat,Male,Persian,Black,White,Kuala Lumpur,12.0,2.0,2.0,3.0,3.0,3.0,1.0,1.0,0.0,0.0,2.0,0
+Cat,Female,Tabby,Brown,Cream,Kuala Lumpur,9.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,3.0,1
+Cat,Female,Silver,Black,Gray,Selangor,5.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,4.0,0
+Dog,Female,Mixed Breed,Cream,White,Kuala Lumpur,2.0,2.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,1.0,5.0,1
+Dog,Female,Mixed Breed,Black,Yellow,Selangor,3.0,3.0,1.0,3.0,1.0,3.0,1.0,1.0,0.0,0.0,4.0,0
+Cat,Male,Domestic Short Hair,Black,Golden,Selangor,3.0,2.0,1.0,2.0,1.0,2.0,1.0,4.0,0.0,0.0,15.0,1
+Dog,Male,Poodle,White,NoColor,Kuala Lumpur,48.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,1.0,1
+Dog,Female,Mixed Breed,Black,Brown,Selangor,1.0,2.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,9.0,1
+Cat,Mixed,Bengal,Gray,NoColor,Selangor,2.0,2.0,1.0,2.0,1.0,2.0,1.0,3.0,20.0,0.0,13.0,1
+Dog,Male,Poodle,White,NoColor,Kuala Lumpur,24.0,2.0,2.0,1.0,1.0,2.0,1.0,1.0,250.0,0.0,2.0,1
+Dog,Male,Mixed Breed,Yellow,White,Selangor,24.0,2.0,2.0,3.0,3.0,2.0,1.0,1.0,0.0,0.0,5.0,1
+Dog,Mixed,Mixed Breed,Black,Brown,Selangor,1.0,2.0,1.0,2.0,2.0,2.0,1.0,7.0,0.0,0.0,8.0,1
+Dog,Male,Mixed Breed,Black,Yellow,Kuala Lumpur,13.0,2.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,4.0,0
+Cat,Mixed,Oriental Short Hair,Black,White,Kuala Lumpur,3.0,1.0,2.0,2.0,1.0,2.0,1.0,2.0,0.0,0.0,4.0,1
+Dog,Female,Mixed Breed,Brown,White,Selangor,4.0,3.0,1.0,2.0,2.0,2.0,1.0,2.0,0.0,0.0,2.0,0
+Cat,Female,Domestic Medium Hair,Black,Gray,Selangor,4.0,2.0,2.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,1.0,1
+Cat,Female,Domestic Medium Hair,Brown,NoColor,Selangor,2.0,3.0,2.0,2.0,1.0,3.0,1.0,1.0,0.0,0.0,2.0,1
+Dog,Female,Chihuahua,Brown,White,Selangor,60.0,1.0,2.0,1.0,1.0,2.0,1.0,1.0,100.0,0.0,2.0,1
+Cat,Female,Domestic Medium Hair,Black,Cream,Kuala Lumpur,2.0,1.0,2.0,3.0,3.0,3.0,1.0,4.0,0.0,0.0,2.0,0
+Cat,Male,Domestic Short Hair,Black,Gray,Selangor,3.0,2.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,3.0,0
+Dog,Mixed,Mixed Breed,Black,Brown,Perak,2.0,2.0,1.0,2.0,2.0,2.0,1.0,2.0,0.0,0.0,2.0,1
+Dog,Female,Mixed Breed,Brown,NoColor,Selangor,2.0,2.0,1.0,2.0,1.0,2.0,1.0,1.0,0.0,0.0,4.0,1
+Cat,Male,Domestic Short Hair,Gray,NoColor,Selangor,2.0,2.0,1.0,2.0,2.0,2.0,1.0,3.0,0.0,0.0,3.0,1
+Dog,Female,Mixed Breed,Black,NoColor,Selangor,2.0,2.0,1.0,2.0,2.0,2.0,1.0,3.0,0.0,0.0,5.0,0
+Dog,Male,Golden Retriever,Golden,NoColor,Selangor,50.0,3.0,3.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,3.0,1
+Dog,Male,Mixed Breed,Brown,NoColor,Selangor,3.0,2.0,2.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,1.0,0
+Dog,Female,Mixed Breed,Brown,Golden,Perak,12.0,1.0,1.0,3.0,3.0,3.0,1.0,1.0,0.0,0.0,5.0,1
+Cat,Mixed,Domestic Short Hair,Cream,NoColor,Selangor,3.0,1.0,1.0,2.0,2.0,2.0,1.0,3.0,0.0,0.0,2.0,0
+Cat,Male,Domestic Short Hair,Brown,White,Kuala Lumpur,12.0,2.0,2.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,0.0,0
+Dog,Female,Mixed Breed,Black,Brown,Negeri Sembilan,2.0,2.0,1.0,1.0,2.0,2.0,1.0,3.0,0.0,0.0,1.0,0
+Dog,Male,Mixed Breed,Black,Golden,Selangor,16.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,2.0,1
+Dog,Female,Mixed Breed,Black,Yellow,Kuala Lumpur,72.0,2.0,2.0,2.0,1.0,2.0,1.0,1.0,50.0,0.0,1.0,1
+Cat,Male,Turkish Angora,Brown,White,Selangor,12.0,3.0,3.0,1.0,1.0,2.0,1.0,1.0,200.0,0.0,4.0,0
+Dog,Female,Mixed Breed,Black,NoColor,Selangor,24.0,2.0,1.0,1.0,3.0,2.0,1.0,1.0,0.0,0.0,1.0,1
+Dog,Female,Mixed Breed,Black,Brown,Selangor,2.0,2.0,2.0,2.0,1.0,2.0,1.0,1.0,100.0,0.0,3.0,1
+Dog,Female,Mixed Breed,Cream,NoColor,Selangor,2.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,1.0,1
+Cat,Mixed,Domestic Long Hair,Yellow,Cream,Kuala Lumpur,3.0,2.0,2.0,2.0,2.0,2.0,1.0,4.0,0.0,0.0,5.0,1
+Dog,Male,Golden Retriever,Brown,Golden,Selangor,64.0,3.0,2.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,2.0,1
+Dog,Mixed,Mixed Breed,Black,Brown,Kuala Lumpur,12.0,2.0,2.0,3.0,3.0,3.0,1.0,4.0,0.0,0.0,1.0,0
+Dog,Male,Jack Russell Terrier,Brown,White,Johor,36.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,3.0,0
+Dog,Female,Yellow Labrador Retriever,Brown,NoColor,Selangor,2.0,2.0,1.0,3.0,3.0,2.0,1.0,1.0,0.0,0.0,5.0,1
+Dog,Male,Mixed Breed,Black,Brown,Kuala Lumpur,108.0,2.0,2.0,3.0,3.0,3.0,2.0,1.0,0.0,0.0,4.0,0
+Cat,Female,Domestic Medium Hair,Brown,NoColor,Selangor,2.0,1.0,2.0,3.0,1.0,2.0,1.0,1.0,0.0,0.0,7.0,1
+Dog,Female,Dachshund,Brown,Cream,Kuala Lumpur,6.0,1.0,2.0,3.0,1.0,1.0,1.0,1.0,0.0,0.0,5.0,1
+Cat,Female,Tortoiseshell,Brown,Golden,Selangor,4.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,5.0,1
+Cat,Mixed,Domestic Long Hair,Brown,Golden,Selangor,2.0,2.0,3.0,2.0,2.0,2.0,1.0,2.0,0.0,0.0,17.0,1
+Dog,Male,Mixed Breed,Golden,Yellow,Kuala Lumpur,6.0,2.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,1.0,0
+Cat,Female,Domestic Short Hair,White,NoColor,Selangor,10.0,2.0,2.0,1.0,1.0,1.0,1.0,2.0,0.0,0.0,1.0,1
+Dog,Male,Black Mouth Cur,Black,Golden,Selangor,2.0,2.0,1.0,2.0,1.0,2.0,1.0,1.0,0.0,0.0,3.0,1
+Cat,Female,Persian,Yellow,White,Selangor,4.0,2.0,3.0,2.0,1.0,2.0,1.0,1.0,550.0,0.0,2.0,1
+Cat,Female,Domestic Short Hair,Black,White,Kuala Lumpur,12.0,2.0,2.0,2.0,1.0,1.0,1.0,1.0,0.0,0.0,2.0,0
+Dog,Mixed,Mixed Breed,Black,NoColor,Melaka,3.0,2.0,1.0,2.0,2.0,2.0,1.0,3.0,0.0,0.0,1.0,1
+Dog,Female,Shih Tzu,Cream,NoColor,Kuala Lumpur,96.0,2.0,2.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,4.0,0
+Dog,Mixed,Mixed Breed,Brown,Golden,Selangor,2.0,1.0,1.0,2.0,2.0,2.0,1.0,3.0,0.0,0.0,4.0,1
+Dog,Male,Mixed Breed,Black,Brown,Johor,7.0,2.0,2.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,1.0,0
+Dog,Female,German Shepherd Dog,Black,Brown,Selangor,31.0,2.0,2.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,2.0,0
+Cat,Male,Domestic Short Hair,Golden,Cream,Kuala Lumpur,2.0,1.0,1.0,3.0,1.0,3.0,1.0,1.0,0.0,0.0,5.0,1
+Cat,Male,Oriental Short Hair,Black,White,Kuala Lumpur,2.0,2.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,3.0,1
+Cat,Female,Tabby,Black,Brown,Kuala Lumpur,3.0,1.0,2.0,2.0,1.0,2.0,1.0,1.0,0.0,0.0,1.0,1
+Dog,Female,Mixed Breed,Brown,NoColor,Perak,6.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,2.0,1
+Dog,Male,Mixed Breed,Black,Brown,Selangor,3.0,3.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,2.0,0
+Dog,Male,Mixed Breed,White,NoColor,Kuala Lumpur,1.0,2.0,3.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,1.0,1
+Cat,Female,Domestic Short Hair,Black,White,Selangor,1.0,1.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,3.0,1
+Dog,Mixed,Mixed Breed,Brown,White,Selangor,0.0,2.0,1.0,3.0,3.0,3.0,1.0,2.0,0.0,0.0,5.0,0
+Cat,Mixed,Domestic Short Hair,Brown,Gray,Negeri Sembilan,2.0,2.0,1.0,2.0,2.0,2.0,1.0,2.0,0.0,0.0,3.0,1
+Dog,Male,Pit Bull Terrier,Brown,NoColor,Johor,3.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,1.0,1
+Cat,Mixed,American Shorthair,Brown,White,Kuala Lumpur,24.0,2.0,2.0,2.0,1.0,3.0,1.0,4.0,0.0,0.0,4.0,0
+Dog,Female,Mixed Breed,Black,Brown,Pulau Pinang,2.0,2.0,2.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,4.0,1
+Dog,Male,Mixed Breed,White,NoColor,Selangor,1.0,2.0,1.0,3.0,3.0,2.0,1.0,1.0,0.0,0.0,2.0,1
+Cat,Female,Domestic Short Hair,Black,Brown,Selangor,24.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,2.0,1
+Dog,Female,Doberman Pinscher,Black,Brown,Kuala Lumpur,36.0,3.0,2.0,3.0,3.0,3.0,2.0,1.0,0.0,0.0,4.0,1
+Cat,Mixed,Domestic Short Hair,Black,Yellow,Kuala Lumpur,3.0,2.0,1.0,2.0,2.0,2.0,1.0,2.0,0.0,0.0,1.0,1
+Cat,Mixed,Domestic Short Hair,Black,Yellow,Selangor,1.0,2.0,1.0,2.0,2.0,2.0,1.0,4.0,0.0,0.0,7.0,1
+Cat,Female,Domestic Medium Hair,Black,Brown,Pulau Pinang,2.0,1.0,2.0,2.0,1.0,2.0,1.0,1.0,0.0,0.0,3.0,1
+Dog,Female,Mixed Breed,Black,NoColor,Pulau Pinang,4.0,3.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,1.0,1
+Dog,Female,Spitz,Brown,NoColor,Selangor,48.0,2.0,2.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,0.0,0
+Dog,Male,Mixed Breed,Black,Brown,Selangor,1.0,3.0,2.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,3.0,1
+Dog,Male,Shih Tzu,Brown,Cream,Selangor,36.0,2.0,2.0,3.0,1.0,2.0,2.0,1.0,0.0,0.0,1.0,1
+Dog,Male,Mixed Breed,Black,Brown,Selangor,84.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,1.0,3.0,0
+Cat,Female,Domestic Short Hair,Black,Brown,Selangor,2.0,2.0,1.0,2.0,2.0,2.0,1.0,2.0,0.0,0.0,3.0,1
+Dog,Female,German Pinscher,Black,Brown,Kuala Lumpur,3.0,2.0,2.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,2.0,1
+Cat,Female,Domestic Medium Hair,Brown,Yellow,Johor,3.0,2.0,2.0,2.0,1.0,2.0,1.0,1.0,0.0,0.0,5.0,1
+Dog,Male,Labrador Retriever,Golden,Cream,Selangor,3.0,2.0,1.0,3.0,3.0,3.0,1.0,1.0,200.0,0.0,0.0,0
+Dog,Female,Mixed Breed,Black,Brown,Pulau Pinang,1.0,2.0,1.0,3.0,3.0,3.0,1.0,2.0,0.0,0.0,1.0,0
+Dog,Male,Mixed Breed,Black,Brown,Selangor,2.0,3.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,5.0,1
+Dog,Male,Mixed Breed,Black,NoColor,Selangor,3.0,2.0,1.0,2.0,1.0,2.0,1.0,1.0,0.0,0.0,4.0,1
+Dog,Mixed,Mixed Breed,Brown,White,Selangor,5.0,2.0,2.0,3.0,3.0,2.0,1.0,2.0,0.0,0.0,4.0,1
+Cat,Male,Domestic Short Hair,Black,White,Selangor,1.0,1.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,4.0,1
+Cat,Female,Domestic Short Hair,Black,NoColor,Selangor,9.0,2.0,2.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0,0
+Cat,Mixed,Domestic Short Hair,White,NoColor,Selangor,5.0,2.0,1.0,2.0,1.0,2.0,1.0,2.0,0.0,0.0,4.0,1
+Cat,Mixed,Domestic Short Hair,Black,NoColor,Kuala Lumpur,9.0,2.0,1.0,2.0,1.0,2.0,1.0,2.0,10.0,0.0,5.0,1
+Cat,Female,Domestic Short Hair,Black,White,Kuala Lumpur,3.0,3.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,4.0,1
+Cat,Female,Domestic Medium Hair,Black,Brown,Selangor,1.0,3.0,2.0,2.0,1.0,2.0,1.0,1.0,0.0,0.0,12.0,1
+Dog,Female,Mixed Breed,White,NoColor,Perak,1.0,2.0,2.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,1.0,1
+Cat,Male,Bengal,White,NoColor,Selangor,4.0,2.0,2.0,2.0,2.0,2.0,1.0,2.0,100.0,0.0,2.0,1
+Dog,Female,Shih Tzu,Black,White,Selangor,8.0,1.0,3.0,2.0,2.0,1.0,1.0,1.0,0.0,0.0,11.0,1
+Cat,Male,Domestic Short Hair,Black,White,Kuala Lumpur,3.0,2.0,1.0,2.0,3.0,2.0,1.0,2.0,0.0,0.0,9.0,1
+Dog,Female,Mixed Breed,Black,Brown,Selangor,2.0,3.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,5.0,1
+Cat,Male,Domestic Long Hair,Gray,NoColor,Negeri Sembilan,16.0,3.0,3.0,1.0,1.0,3.0,1.0,1.0,0.0,0.0,2.0,0
+Cat,Female,Domestic Short Hair,Black,NoColor,Selangor,2.0,2.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,1.0,4.0,1
+Cat,Female,Domestic Short Hair,White,NoColor,Kuala Lumpur,3.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,3.0,1
+Cat,Male,Domestic Short Hair,Brown,Yellow,Selangor,2.0,2.0,2.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,3.0,1
+Cat,Male,Domestic Short Hair,Brown,NoColor,Kuala Lumpur,10.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,100.0,0.0,1.0,0
+Dog,Female,Mixed Breed,Black,NoColor,Selangor,2.0,2.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,6.0,1
+Cat,Female,Domestic Short Hair,Golden,White,Selangor,4.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,120.0,0.0,7.0,1
+Dog,Mixed,Labrador Retriever,Golden,Cream,Selangor,96.0,3.0,1.0,1.0,1.0,1.0,1.0,2.0,0.0,0.0,7.0,1
+Cat,Female,Domestic Short Hair,Black,Gray,Johor,2.0,1.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,2.0,1
+Cat,Female,Domestic Short Hair,Black,Brown,Selangor,12.0,3.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,3.0,1
+Cat,Male,Domestic Short Hair,Yellow,NoColor,Selangor,2.0,1.0,1.0,2.0,1.0,2.0,1.0,1.0,0.0,0.0,1.0,1
+Cat,Female,Domestic Short Hair,Golden,NoColor,Selangor,4.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,2.0,1
+Dog,Male,Shih Tzu,Brown,Cream,Selangor,8.0,1.0,2.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,4.0,1
+Cat,Male,Domestic Short Hair,Yellow,White,Kuala Lumpur,60.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,13.0,1
+Cat,Male,Domestic Short Hair,Black,White,Selangor,7.0,2.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,3.0,1
+Dog,Female,Flat-coated Retriever,Brown,NoColor,Selangor,84.0,3.0,2.0,1.0,1.0,1.0,2.0,1.0,0.0,0.0,1.0,0
+Dog,Male,Mixed Breed,Brown,Golden,Kuala Lumpur,5.0,2.0,1.0,3.0,3.0,3.0,1.0,1.0,0.0,0.0,9.0,0
+Cat,Female,Domestic Long Hair,Black,Golden,Selangor,1.0,2.0,2.0,2.0,2.0,2.0,1.0,1.0,50.0,0.0,5.0,1
+Cat,Female,Tabby,Black,White,Selangor,1.0,1.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,2.0,1
+Cat,Mixed,Tiger,Brown,Gray,Johor,12.0,2.0,1.0,2.0,2.0,1.0,1.0,2.0,0.0,0.0,2.0,1
+Cat,Female,Domestic Short Hair,Black,Gray,Selangor,7.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,2.0,1
+Dog,Female,Mixed Breed,Black,White,Selangor,2.0,2.0,2.0,2.0,2.0,2.0,2.0,1.0,150.0,0.0,2.0,0
+Cat,Female,Domestic Medium Hair,Golden,White,Selangor,3.0,1.0,2.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,5.0,1
+Dog,Male,Mixed Breed,Black,NoColor,Selangor,14.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,3.0,0
+Cat,Mixed,Domestic Short Hair,Brown,Golden,Selangor,4.0,1.0,1.0,2.0,1.0,2.0,1.0,5.0,0.0,0.0,9.0,1
+Dog,Female,Mixed Breed,Black,Brown,Selangor,1.0,2.0,1.0,2.0,1.0,2.0,1.0,7.0,0.0,0.0,3.0,1
+Dog,Male,Mixed Breed,Black,Brown,Pulau Pinang,24.0,2.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,3.0,0
+Dog,Mixed,Mixed Breed,Brown,White,Selangor,3.0,2.0,1.0,3.0,3.0,2.0,1.0,2.0,0.0,0.0,2.0,1
+Dog,Female,Mixed Breed,Brown,NoColor,Negeri Sembilan,24.0,2.0,2.0,3.0,3.0,3.0,1.0,20.0,0.0,0.0,1.0,0
+Cat,Male,Domestic Short Hair,Yellow,NoColor,Kuala Lumpur,60.0,3.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0,0
+Dog,Female,Mixed Breed,Black,NoColor,Selangor,5.0,2.0,1.0,3.0,1.0,3.0,1.0,1.0,0.0,0.0,2.0,1
+Cat,Female,Domestic Short Hair,Black,Yellow,Selangor,1.0,2.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,3.0,1
+Dog,Mixed,Mixed Breed,Black,Brown,Selangor,2.0,3.0,1.0,2.0,1.0,2.0,1.0,2.0,50.0,0.0,20.0,1
+Dog,Mixed,Mixed Breed,Brown,NoColor,Selangor,24.0,2.0,1.0,1.0,1.0,1.0,1.0,2.0,0.0,0.0,1.0,1
+Dog,Male,Mixed Breed,Black,White,Negeri Sembilan,48.0,3.0,1.0,1.0,1.0,1.0,1.0,1.0,100.0,0.0,4.0,1
+Cat,Mixed,Domestic Short Hair,White,NoColor,Johor,2.0,2.0,1.0,2.0,1.0,2.0,1.0,3.0,0.0,0.0,4.0,1
+Cat,Female,Domestic Short Hair,Black,Brown,Selangor,1.0,3.0,2.0,2.0,1.0,3.0,1.0,1.0,0.0,0.0,4.0,1
+Dog,Female,Mixed Breed,Brown,White,Kuala Lumpur,3.0,1.0,1.0,1.0,1.0,2.0,2.0,1.0,0.0,0.0,2.0,1
+Cat,Male,Domestic Short Hair,Black,Brown,Selangor,1.0,2.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,1.0,1
+Cat,Mixed,Domestic Short Hair,Black,Brown,Selangor,2.0,2.0,1.0,2.0,2.0,2.0,1.0,5.0,0.0,0.0,5.0,1
+Dog,Female,Shih Tzu,Gray,White,Selangor,18.0,1.0,3.0,3.0,3.0,3.0,1.0,1.0,300.0,0.0,4.0,1
+Dog,Female,Golden Retriever,Golden,NoColor,Selangor,24.0,2.0,3.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0
+Dog,Male,Pug,Black,Cream,Selangor,120.0,1.0,1.0,3.0,3.0,2.0,1.0,1.0,0.0,0.0,3.0,1
+Dog,Female,Mixed Breed,Black,Brown,Johor,3.0,2.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,5.0,1
+Cat,Male,Domestic Short Hair,Gray,White,Pahang,3.0,2.0,1.0,2.0,1.0,2.0,1.0,1.0,0.0,0.0,6.0,1
+Cat,Female,Domestic Medium Hair,Black,Brown,Selangor,2.0,2.0,2.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,4.0,1
+Cat,Female,Domestic Long Hair,Black,Gray,Selangor,3.0,2.0,3.0,2.0,2.0,2.0,1.0,1.0,100.0,0.0,2.0,1
+Dog,Mixed,Labrador Retriever,Black,Brown,Selangor,1.0,2.0,1.0,2.0,1.0,2.0,1.0,5.0,0.0,0.0,5.0,1
+Dog,Mixed,Mixed Breed,Black,White,Johor,2.0,3.0,1.0,2.0,2.0,2.0,1.0,6.0,0.0,0.0,1.0,1
+Cat,Female,Domestic Medium Hair,Black,Golden,Selangor,2.0,2.0,2.0,2.0,2.0,2.0,1.0,1.0,50.0,0.0,5.0,1
+Cat,Male,Domestic Short Hair,Black,Cream,Selangor,3.0,1.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,5.0,1
+Dog,Female,Mixed Breed,Brown,White,Negeri Sembilan,2.0,2.0,1.0,2.0,2.0,3.0,1.0,3.0,0.0,0.0,5.0,0
+Dog,Female,Mixed Breed,Black,Brown,Selangor,8.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,3.0,1
+Dog,Male,Mixed Breed,Black,Brown,Kuala Lumpur,2.0,2.0,2.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,2.0,0
+Dog,Female,Mixed Breed,Brown,White,Selangor,6.0,2.0,2.0,1.0,1.0,1.0,2.0,1.0,0.0,0.0,6.0,1
+Dog,Male,Mixed Breed,Black,Brown,Selangor,2.0,2.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,1.0,1
+Cat,Female,Domestic Medium Hair,Brown,Gray,Selangor,4.0,1.0,2.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,1.0,0
+Dog,Male,Mixed Breed,Yellow,NoColor,Selangor,72.0,3.0,2.0,1.0,1.0,1.0,1.0,1.0,200.0,0.0,1.0,0
+Cat,Male,Tabby,Golden,White,Kuala Lumpur,12.0,2.0,1.0,3.0,1.0,2.0,1.0,1.0,0.0,0.0,1.0,0
+Cat,Male,Domestic Short Hair,Brown,Yellow,Selangor,2.0,2.0,2.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,2.0,1
+Cat,Female,Domestic Short Hair,Black,Cream,Kuala Lumpur,2.0,2.0,1.0,2.0,1.0,2.0,1.0,2.0,0.0,0.0,8.0,1
+Dog,Female,Mixed Breed,Brown,Cream,Pulau Pinang,3.0,2.0,2.0,2.0,2.0,2.0,1.0,5.0,0.0,0.0,1.0,0
+Dog,Female,Mixed Breed,Yellow,NoColor,Perak,3.0,1.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,1.0,0
+Cat,Mixed,Calico,Black,Gray,Selangor,2.0,2.0,1.0,2.0,1.0,2.0,1.0,2.0,0.0,1.0,2.0,1
+Cat,Mixed,Domestic Short Hair,Black,Golden,Selangor,0.0,1.0,1.0,3.0,3.0,3.0,1.0,2.0,0.0,0.0,4.0,0
+Dog,Mixed,Mixed Breed,Black,Brown,Selangor,1.0,2.0,1.0,1.0,1.0,2.0,1.0,3.0,0.0,0.0,29.0,1
+Cat,Male,Domestic Short Hair,Yellow,NoColor,Melaka,24.0,3.0,1.0,2.0,2.0,2.0,2.0,1.0,0.0,0.0,12.0,1
+Dog,Male,Mixed Breed,Black,Brown,Kuala Lumpur,2.0,2.0,1.0,1.0,1.0,3.0,1.0,1.0,0.0,0.0,7.0,1
+Cat,Male,Siamese,Brown,White,Selangor,36.0,2.0,1.0,2.0,1.0,2.0,1.0,1.0,0.0,0.0,1.0,1
+Dog,Female,Mixed Breed,Brown,NoColor,Perak,1.0,2.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,1.0,8.0,1
+Dog,Female,German Shepherd Dog,Black,Brown,Selangor,5.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,4.0,1
+Cat,Female,Domestic Short Hair,Brown,Cream,Selangor,1.0,2.0,1.0,2.0,1.0,2.0,1.0,1.0,0.0,2.0,3.0,1
+Dog,Mixed,Mixed Breed,Black,Golden,Selangor,1.0,2.0,2.0,2.0,2.0,2.0,1.0,7.0,0.0,1.0,10.0,1
+Cat,Female,Domestic Medium Hair,Black,White,Negeri Sembilan,2.0,2.0,2.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,4.0,1
+Dog,Male,Mixed Breed,Gray,NoColor,Selangor,9.0,2.0,1.0,3.0,1.0,2.0,1.0,1.0,0.0,0.0,4.0,1
+Cat,Male,Domestic Short Hair,Black,Brown,Selangor,4.0,2.0,2.0,2.0,2.0,2.0,1.0,1.0,99.0,0.0,5.0,1
+Dog,Male,Shih Tzu,Brown,Cream,Selangor,48.0,1.0,2.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,3.0,1
+Dog,Male,Shih Tzu,Golden,Cream,Selangor,60.0,1.0,2.0,3.0,3.0,1.0,1.0,1.0,0.0,0.0,13.0,1
+Dog,Female,Beagle,Brown,White,Selangor,5.0,2.0,2.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,1.0,1
+Cat,Female,Oriental Short Hair,Black,White,Selangor,6.0,1.0,1.0,2.0,2.0,2.0,1.0,1.0,30.0,0.0,1.0,0
+Cat,Female,Tabby,Black,Gray,Kuala Lumpur,1.0,2.0,2.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,7.0,1
+Dog,Female,Mixed Breed,Black,Brown,Kuala Lumpur,3.0,2.0,2.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,3.0,0
+Dog,Male,Mixed Breed,Brown,White,Selangor,1.0,2.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,2.0,1
+Cat,Mixed,Domestic Short Hair,Black,Gray,Selangor,2.0,1.0,2.0,2.0,2.0,2.0,1.0,2.0,0.0,0.0,2.0,0
+Cat,Male,Domestic Short Hair,Black,Brown,Kuala Lumpur,5.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,100.0,0.0,1.0,0
+Dog,Female,Mixed Breed,Black,White,Selangor,2.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,8.0,0
+Dog,Female,Mixed Breed,Black,NoColor,Kuala Lumpur,2.0,2.0,1.0,2.0,1.0,2.0,1.0,1.0,0.0,0.0,8.0,1
+Cat,Mixed,Siamese,Black,White,Selangor,3.0,2.0,1.0,2.0,2.0,2.0,1.0,5.0,0.0,0.0,5.0,1
+Dog,Male,Mixed Breed,Brown,Yellow,Selangor,4.0,3.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,1.0,0
+Cat,Female,Bengal,Black,Gray,Selangor,3.0,2.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,3.0,1
+Cat,Female,Domestic Medium Hair,Black,White,Selangor,12.0,2.0,2.0,1.0,1.0,1.0,1.0,1.0,150.0,0.0,3.0,0
+Dog,Female,Mixed Breed,Brown,White,Selangor,24.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,24.0,0
+Dog,Male,Mixed Breed,Black,White,Kuala Lumpur,2.0,2.0,1.0,2.0,1.0,2.0,1.0,1.0,200.0,0.0,3.0,0
+Cat,Female,Domestic Short Hair,Brown,Golden,Kuala Lumpur,7.0,1.0,1.0,2.0,1.0,2.0,1.0,1.0,0.0,0.0,3.0,1
+Dog,Female,Labrador Retriever,Black,NoColor,Selangor,36.0,2.0,3.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,2.0,0
+Dog,Male,Dalmatian,Black,Gray,Selangor,144.0,3.0,1.0,1.0,1.0,2.0,2.0,1.0,0.0,0.0,0.0,0
+Dog,Female,Mixed Breed,Brown,NoColor,Selangor,1.0,3.0,1.0,2.0,2.0,2.0,1.0,2.0,0.0,0.0,3.0,1
+Cat,Male,Tabby,Gray,NoColor,Kuala Lumpur,6.0,2.0,1.0,2.0,1.0,2.0,1.0,1.0,0.0,0.0,4.0,0
+Cat,Female,Oriental Tabby,Brown,Golden,Kuala Lumpur,6.0,2.0,1.0,1.0,1.0,1.0,1.0,2.0,0.0,0.0,4.0,1
+Dog,Female,Mixed Breed,Brown,White,Selangor,2.0,2.0,1.0,2.0,1.0,2.0,1.0,1.0,0.0,0.0,6.0,1
+Cat,Mixed,Domestic Short Hair,Black,Brown,Selangor,2.0,2.0,1.0,1.0,1.0,2.0,1.0,2.0,0.0,0.0,12.0,1
+Cat,Female,Domestic Medium Hair,Black,Brown,Selangor,2.0,1.0,2.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,4.0,1
+Cat,Female,Domestic Short Hair,Brown,Yellow,Selangor,24.0,2.0,1.0,1.0,1.0,1.0,1.0,8.0,0.0,0.0,9.0,0
+Dog,Female,Mixed Breed,Black,Brown,Kuala Lumpur,2.0,2.0,2.0,3.0,3.0,1.0,1.0,1.0,0.0,0.0,5.0,0
+Dog,Female,Mixed Breed,Black,White,Selangor,1.0,2.0,1.0,2.0,1.0,2.0,1.0,1.0,0.0,0.0,5.0,1
+Cat,Female,Domestic Short Hair,Black,Brown,Kuala Lumpur,1.0,2.0,1.0,2.0,1.0,2.0,1.0,1.0,0.0,0.0,1.0,1
+Cat,Male,Siamese,Cream,White,Negeri Sembilan,6.0,2.0,1.0,2.0,1.0,2.0,1.0,1.0,0.0,0.0,3.0,1
+Dog,Female,Corgi,Black,Brown,Selangor,2.0,1.0,1.0,2.0,1.0,2.0,1.0,1.0,0.0,0.0,6.0,1
+Dog,Female,Mixed Breed,Brown,NoColor,Pulau Pinang,2.0,3.0,1.0,2.0,1.0,2.0,1.0,1.0,0.0,0.0,1.0,1
+Cat,Mixed,Domestic Short Hair,Black,Brown,Kuala Lumpur,2.0,1.0,1.0,2.0,2.0,1.0,1.0,3.0,0.0,0.0,5.0,1
+Cat,Male,Domestic Long Hair,Black,White,Selangor,24.0,2.0,3.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,5.0,0
+Dog,Male,Mixed Breed,Brown,White,Selangor,7.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,24.0,0
+Cat,Female,Domestic Medium Hair,Black,Brown,Kuala Lumpur,12.0,2.0,2.0,1.0,1.0,1.0,1.0,2.0,0.0,0.0,4.0,0
+Cat,Female,American Shorthair,White,NoColor,Selangor,3.0,2.0,1.0,2.0,1.0,3.0,1.0,3.0,0.0,0.0,5.0,0
+Dog,Male,Mixed Breed,Brown,NoColor,Pulau Pinang,1.0,2.0,1.0,2.0,2.0,2.0,1.0,1.0,20.0,0.0,1.0,1
+Dog,Male,Mixed Breed,Cream,NoColor,Selangor,12.0,2.0,2.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,1.0,1
+Cat,Female,Domestic Short Hair,Black,Yellow,Pahang,2.0,2.0,1.0,2.0,1.0,2.0,1.0,4.0,0.0,0.0,7.0,1
+Dog,Female,Mixed Breed,Brown,NoColor,Selangor,4.0,2.0,2.0,2.0,3.0,3.0,1.0,1.0,0.0,0.0,4.0,0
+Cat,Male,Domestic Short Hair,Black,Gray,Selangor,2.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,2.0,1
+Cat,Female,Siamese,Brown,White,Kuala Lumpur,3.0,1.0,1.0,3.0,3.0,3.0,1.0,1.0,0.0,0.0,1.0,1
+Dog,Female,White German Shepherd,White,NoColor,Selangor,84.0,2.0,2.0,3.0,3.0,3.0,1.0,1.0,100.0,0.0,3.0,1
+Cat,Female,Calico,Brown,Yellow,Johor,6.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,1.0,1
+Cat,Male,American Wirehair,Golden,NoColor,Selangor,36.0,3.0,2.0,3.0,1.0,2.0,2.0,1.0,0.0,0.0,2.0,0
+Dog,Male,Mixed Breed,Brown,White,Selangor,3.0,2.0,2.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,4.0,1
+Dog,Female,Mixed Breed,Black,White,Kuala Lumpur,120.0,2.0,2.0,3.0,3.0,3.0,2.0,1.0,0.0,0.0,3.0,1
+Dog,Female,Boston Terrier,Black,White,Johor,24.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,350.0,0.0,5.0,1
+Cat,Male,Tabby,Golden,White,Selangor,2.0,2.0,1.0,2.0,1.0,2.0,1.0,1.0,0.0,0.0,2.0,1
+Cat,Mixed,Domestic Short Hair,Black,White,Kuala Lumpur,2.0,3.0,1.0,2.0,1.0,2.0,1.0,2.0,0.0,1.0,2.0,1
+Dog,Male,Poodle,Cream,White,Selangor,24.0,1.0,1.0,3.0,3.0,2.0,1.0,1.0,0.0,0.0,1.0,1
+Dog,Female,Mixed Breed,Brown,NoColor,Kuala Lumpur,2.0,2.0,1.0,2.0,2.0,2.0,1.0,2.0,0.0,0.0,4.0,0
+Cat,Female,Siamese,Cream,NoColor,Selangor,2.0,2.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,2.0,1
+Dog,Male,Labrador Retriever,Cream,NoColor,Kuala Lumpur,84.0,3.0,2.0,3.0,3.0,3.0,1.0,1.0,0.0,0.0,2.0,1
+Dog,Female,Mixed Breed,Brown,NoColor,Kuala Lumpur,12.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,8.0,0
+Cat,Female,Domestic Short Hair,Brown,White,Selangor,8.0,2.0,1.0,3.0,3.0,1.0,1.0,1.0,0.0,0.0,1.0,1
+Cat,Female,Domestic Medium Hair,Black,Brown,Kuala Lumpur,24.0,2.0,2.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,5.0,1
+Dog,Female,Mixed Breed,Black,Brown,Selangor,1.0,2.0,2.0,2.0,1.0,2.0,1.0,1.0,0.0,0.0,1.0,1
+Cat,Female,Domestic Short Hair,Black,White,Kuala Lumpur,3.0,1.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,15.0,1
+Dog,Mixed,Shih Tzu,Brown,Gray,Johor,48.0,1.0,3.0,1.0,1.0,2.0,2.0,2.0,300.0,0.0,5.0,1
+Dog,Male,Mixed Breed,Brown,White,Kuala Lumpur,2.0,2.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,2.0,1
+Dog,Male,Mixed Breed,Black,NoColor,Selangor,0.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0,1
+Dog,Male,Jack Russell Terrier,Brown,White,Johor,36.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,350.0,0.0,8.0,1
+Dog,Mixed,Mixed Breed,Golden,NoColor,Kuala Lumpur,5.0,2.0,1.0,1.0,1.0,2.0,1.0,2.0,0.0,1.0,6.0,1
+Dog,Female,Border Collie,Black,White,Selangor,30.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,3.0,0
+Cat,Female,Domestic Short Hair,Black,NoColor,Kuala Lumpur,3.0,1.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,1.0,1
+Cat,Male,Domestic Medium Hair,Gray,White,Kuala Lumpur,5.0,2.0,2.0,1.0,1.0,1.0,1.0,1.0,100.0,3.0,11.0,1
+Dog,Female,Mixed Breed,Black,NoColor,Melaka,54.0,2.0,2.0,1.0,2.0,2.0,1.0,1.0,0.0,0.0,2.0,1
+Cat,Mixed,Siamese,Black,Brown,Selangor,3.0,1.0,2.0,2.0,2.0,2.0,1.0,4.0,50.0,0.0,1.0,1
+Cat,Male,Domestic Medium Hair,Black,White,Selangor,3.0,1.0,2.0,2.0,1.0,2.0,1.0,1.0,0.0,0.0,5.0,1
+Cat,Mixed,Domestic Medium Hair,Brown,Yellow,Selangor,24.0,2.0,2.0,1.0,3.0,3.0,1.0,6.0,0.0,0.0,5.0,1
+Dog,Female,Terrier,Black,White,Kuala Lumpur,0.0,2.0,2.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,2.0,1
+Dog,Female,Poodle,Brown,NoColor,Selangor,2.0,1.0,2.0,2.0,1.0,2.0,1.0,1.0,500.0,0.0,0.0,1
+Cat,Female,Domestic Medium Hair,Black,Golden,Pulau Pinang,3.0,1.0,2.0,2.0,1.0,2.0,1.0,1.0,0.0,0.0,2.0,1
+Dog,Male,Mixed Breed,Brown,NoColor,Kuala Lumpur,2.0,2.0,2.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,4.0,1
+Cat,Mixed,Domestic Short Hair,Black,Brown,Selangor,2.0,2.0,1.0,2.0,2.0,2.0,1.0,4.0,0.0,0.0,4.0,1
+Dog,Mixed,Mixed Breed,Black,NoColor,Selangor,1.0,2.0,1.0,2.0,2.0,2.0,1.0,6.0,0.0,0.0,5.0,1
+Dog,Female,Mixed Breed,Golden,White,Kuala Lumpur,4.0,1.0,1.0,1.0,1.0,3.0,1.0,1.0,0.0,0.0,4.0,1
+Dog,Female,Mixed Breed,Black,Brown,Selangor,3.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,13.0,1
+Cat,Male,Domestic Short Hair,Cream,White,Kuala Lumpur,3.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,1.0,1
+Dog,Male,Mixed Breed,Cream,NoColor,Kuala Lumpur,3.0,2.0,1.0,3.0,1.0,2.0,1.0,1.0,0.0,0.0,9.0,1
+Dog,Mixed,German Shepherd Dog,Black,Brown,Kedah,4.0,3.0,2.0,1.0,1.0,3.0,1.0,2.0,3000.0,0.0,5.0,1
+Cat,Male,Domestic Short Hair,Black,White,Johor,2.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,150.0,0.0,4.0,1
+Dog,Female,Mixed Breed,Brown,NoColor,Johor,4.0,2.0,1.0,3.0,3.0,2.0,2.0,1.0,0.0,0.0,4.0,0
+Cat,Male,Domestic Short Hair,Gray,NoColor,Kuala Lumpur,8.0,2.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,3.0,0
+Dog,Male,Terrier,Gray,White,Selangor,12.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,10.0,0
+Dog,Mixed,Mixed Breed,Black,Brown,Selangor,1.0,2.0,1.0,2.0,2.0,2.0,1.0,7.0,0.0,0.0,2.0,1
+Dog,Female,Mixed Breed,Brown,NoColor,Pulau Pinang,2.0,2.0,2.0,2.0,1.0,2.0,1.0,1.0,0.0,0.0,2.0,0
+Dog,Male,Mixed Breed,White,NoColor,Selangor,5.0,2.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,2.0,0
+Cat,Female,Domestic Medium Hair,Yellow,NoColor,Selangor,4.0,2.0,2.0,2.0,1.0,2.0,1.0,1.0,0.0,0.0,3.0,1
+Cat,Female,Tiger,Black,Gray,Selangor,12.0,2.0,2.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,3.0,1
+Dog,Female,Mixed Breed,Black,Brown,Selangor,2.0,2.0,1.0,3.0,3.0,2.0,1.0,1.0,0.0,0.0,3.0,1
+Dog,Mixed,Mixed Breed,Black,Brown,Selangor,1.0,2.0,2.0,2.0,2.0,2.0,1.0,3.0,0.0,0.0,11.0,0
+Cat,Female,Domestic Short Hair,Brown,Yellow,Selangor,7.0,2.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.0,5.0,0
+Cat,Male,Birman,Black,NoColor,Kuala Lumpur,28.0,3.0,3.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,5.0,1
+Cat,Female,Bengal,Black,Brown,Kuala Lumpur,2.0,1.0,2.0,2.0,2.0,2.0,1.0,3.0,0.0,0.0,7.0,1
+Dog,Male,Mixed Breed,Brown,Golden,Selangor,9.0,2.0,2.0,1.0,3.0,2.0,1.0,1.0,0.0,0.0,3.0,1
+Cat,Female,Domestic Short Hair,Black,Brown,Kuala Lumpur,18.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,3.0,0
+Cat,Mixed,Singapura,Golden,White,Kuala Lumpur,3.0,2.0,1.0,1.0,1.0,1.0,1.0,3.0,0.0,0.0,5.0,0
+Cat,Female,Domestic Short Hair,Black,Brown,Kuala Lumpur,2.0,1.0,1.0,2.0,2.0,2.0,1.0,4.0,0.0,0.0,4.0,1
+Dog,Female,Dalmatian,Black,White,Kuala Lumpur,2.0,2.0,1.0,2.0,1.0,2.0,1.0,1.0,0.0,0.0,8.0,1
+Dog,Female,Mixed Breed,Brown,Yellow,Perak,5.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,11.0,1
+Cat,Male,Domestic Short Hair,Black,Brown,Selangor,6.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,100.0,0.0,3.0,1
+Dog,Female,Mixed Breed,Cream,White,Selangor,2.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,50.0,0.0,3.0,1
+Dog,Female,Spitz,Black,NoColor,Selangor,60.0,2.0,2.0,1.0,1.0,3.0,1.0,1.0,0.0,3.0,4.0,0
+Dog,Male,Rottweiler,Black,Brown,Perak,60.0,3.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,1.0,1
+Dog,Male,Mixed Breed,Brown,White,Kuala Lumpur,1.0,2.0,2.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,12.0,1
+Cat,Female,Domestic Short Hair,Brown,White,Selangor,2.0,2.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,3.0,1
+Cat,Female,Domestic Short Hair,Brown,Gray,Selangor,24.0,1.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.0,3.0,0
+Dog,Male,Mixed Breed,Brown,White,Kuala Lumpur,1.0,2.0,3.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,1.0,1
+Dog,Female,Mixed Breed,Black,White,Pulau Pinang,2.0,2.0,2.0,2.0,2.0,2.0,1.0,2.0,0.0,0.0,3.0,0
+Dog,Female,Mixed Breed,Cream,NoColor,Perak,9.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,4.0,1
+Cat,Male,Domestic Short Hair,Black,Gray,Selangor,4.0,2.0,2.0,2.0,2.0,2.0,1.0,3.0,0.0,0.0,2.0,1
+Cat,Mixed,Domestic Short Hair,Golden,Cream,Kuala Lumpur,1.0,1.0,1.0,2.0,2.0,2.0,1.0,2.0,0.0,0.0,6.0,1
+Dog,Male,Belgian Shepherd Malinois,Black,Brown,Perak,6.0,2.0,2.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,4.0,1
+Dog,Female,Mixed Breed,Brown,NoColor,Selangor,12.0,1.0,2.0,1.0,1.0,2.0,1.0,1.0,80.0,0.0,4.0,1
+Dog,Female,Mixed Breed,Black,White,Kuala Lumpur,5.0,3.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,1.0,1
+Dog,Mixed,Mixed Breed,Brown,White,Perak,2.0,2.0,1.0,1.0,1.0,2.0,1.0,2.0,0.0,1.0,10.0,1
+Cat,Male,Domestic Short Hair,Black,NoColor,Selangor,3.0,2.0,1.0,3.0,1.0,2.0,2.0,1.0,0.0,0.0,1.0,1
+Dog,Female,Golden Retriever,Golden,Cream,Selangor,48.0,2.0,2.0,1.0,2.0,1.0,1.0,1.0,0.0,0.0,2.0,1
+Dog,Female,Mixed Breed,Brown,NoColor,Selangor,2.0,2.0,2.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,1.0,1
+Cat,Female,Calico,Black,Brown,Kuala Lumpur,12.0,2.0,2.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0,0
+Cat,Female,Domestic Medium Hair,Black,Brown,Kuala Lumpur,0.0,3.0,2.0,2.0,2.0,2.0,1.0,3.0,0.0,2.0,4.0,1
+Cat,Female,Domestic Medium Hair,Black,Brown,Johor,1.0,2.0,2.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,3.0,1
+Cat,Female,Domestic Short Hair,Gray,NoColor,Selangor,1.0,1.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,6.0,1
+Cat,Mixed,Domestic Short Hair,Brown,Yellow,Pulau Pinang,3.0,2.0,1.0,1.0,1.0,3.0,1.0,5.0,1.0,0.0,4.0,0
+Cat,Mixed,Domestic Short Hair,Brown,Gray,Kuala Lumpur,1.0,2.0,2.0,3.0,3.0,3.0,1.0,3.0,0.0,0.0,5.0,1
+Dog,Male,Mixed Breed,White,NoColor,Selangor,4.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,1.0,1
+Cat,Mixed,Tabby,Golden,NoColor,Selangor,37.0,2.0,1.0,1.0,1.0,1.0,1.0,2.0,150.0,0.0,5.0,1
+Dog,Female,Mixed Breed,White,NoColor,Selangor,5.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,5.0,1
+Cat,Male,Tabby,Gray,NoColor,Selangor,4.0,1.0,1.0,2.0,1.0,2.0,1.0,1.0,50.0,0.0,4.0,0
+Cat,Mixed,Domestic Short Hair,Black,Yellow,Terengganu,2.0,2.0,1.0,2.0,2.0,3.0,1.0,4.0,0.0,0.0,0.0,0
+Cat,Female,Bombay,Black,NoColor,Selangor,9.0,1.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0,1
+Cat,Male,Domestic Short Hair,Brown,Golden,Selangor,5.0,2.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,6.0,1
+Dog,Male,Mixed Breed,Brown,White,Selangor,5.0,2.0,2.0,2.0,2.0,3.0,1.0,1.0,0.0,0.0,1.0,0
+Cat,Female,Domestic Long Hair,Black,Yellow,Selangor,3.0,2.0,2.0,1.0,1.0,2.0,1.0,1.0,150.0,0.0,1.0,1
+Cat,Male,Domestic Medium Hair,Brown,Gray,Selangor,2.0,3.0,2.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,5.0,1
+Dog,Male,Labrador Retriever,Cream,NoColor,Selangor,72.0,3.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,3.0,1
+Cat,Female,Domestic Short Hair,Yellow,White,Kuala Lumpur,1.0,2.0,1.0,2.0,1.0,2.0,1.0,2.0,0.0,0.0,3.0,1
+Dog,Female,Mixed Breed,Black,NoColor,Selangor,2.0,2.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,2.0,0
+Cat,Female,Domestic Short Hair,Cream,White,Kuala Lumpur,8.0,2.0,2.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,5.0,1
+Cat,Male,Tabby,Black,Gray,Kuala Lumpur,2.0,1.0,2.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,2.0,1
+Dog,Mixed,Mixed Breed,Black,Brown,Kuala Lumpur,2.0,3.0,1.0,1.0,1.0,3.0,1.0,2.0,0.0,0.0,1.0,0
+Dog,Male,Mixed Breed,Black,Yellow,Perak,12.0,2.0,2.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,4.0,1
+Dog,Female,Mixed Breed,Brown,White,Selangor,4.0,2.0,1.0,1.0,3.0,2.0,1.0,1.0,0.0,0.0,1.0,1
+Dog,Male,Mixed Breed,Black,NoColor,Selangor,18.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,100.0,0.0,1.0,1
+Dog,Female,Mixed Breed,Black,Brown,Selangor,5.0,2.0,1.0,1.0,1.0,1.0,1.0,2.0,0.0,0.0,4.0,1
+Cat,Male,Domestic Medium Hair,Golden,NoColor,Selangor,2.0,2.0,1.0,2.0,1.0,2.0,1.0,1.0,0.0,0.0,14.0,1
+Dog,Male,Mixed Breed,Black,Brown,Selangor,8.0,2.0,1.0,3.0,3.0,1.0,1.0,1.0,0.0,0.0,3.0,1
+Dog,Mixed,Terrier,Black,Brown,Selangor,2.0,2.0,1.0,2.0,1.0,2.0,1.0,8.0,0.0,0.0,9.0,1
+Dog,Male,Mixed Breed,Cream,White,Kuala Lumpur,36.0,3.0,2.0,1.0,3.0,3.0,1.0,1.0,0.0,0.0,1.0,0
+Dog,Female,Golden Retriever,Black,NoColor,Kuala Lumpur,2.0,2.0,2.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,3.0,1
+Dog,Female,Mixed Breed,White,NoColor,Selangor,8.0,2.0,2.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,5.0,1
+Dog,Female,Mixed Breed,Brown,NoColor,Selangor,2.0,1.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,2.0,0
+Dog,Male,Mixed Breed,Black,NoColor,Johor,3.0,2.0,2.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,1.0,0
+Cat,Male,Domestic Short Hair,Brown,White,Selangor,3.0,1.0,2.0,2.0,1.0,2.0,1.0,1.0,0.0,0.0,3.0,1
+Dog,Mixed,Mixed Breed,Black,Brown,Selangor,3.0,3.0,2.0,2.0,1.0,2.0,1.0,2.0,0.0,0.0,6.0,1
+Dog,Female,Mixed Breed,Gray,White,Kuala Lumpur,2.0,2.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,2.0,1
+Dog,Male,Labrador Retriever,Brown,Golden,Selangor,2.0,3.0,2.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,5.0,1
+Dog,Male,Mixed Breed,Brown,NoColor,Pulau Pinang,2.0,2.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,2.0,1
+Dog,Male,Mixed Breed,Brown,NoColor,Kuala Lumpur,3.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,3.0,1
+Cat,Male,Tabby,Brown,Gray,Kuala Lumpur,4.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,13.0,1
+Dog,Male,Terrier,Black,White,Selangor,78.0,2.0,2.0,3.0,3.0,3.0,1.0,1.0,0.0,0.0,2.0,0
+Cat,Mixed,Tabby,Black,Yellow,Selangor,7.0,2.0,2.0,1.0,1.0,1.0,1.0,2.0,0.0,0.0,2.0,0
+Cat,Male,Domestic Short Hair,Brown,White,Selangor,2.0,2.0,2.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,2.0,1
+Cat,Mixed,Domestic Long Hair,Brown,Gray,Kuala Lumpur,2.0,1.0,2.0,1.0,1.0,2.0,1.0,3.0,0.0,0.0,4.0,1
+Dog,Female,Mixed Breed,Black,Brown,Selangor,2.0,2.0,1.0,3.0,3.0,2.0,1.0,1.0,0.0,0.0,2.0,1
+Dog,Female,Husky,Gray,White,Kuala Lumpur,48.0,3.0,3.0,3.0,3.0,2.0,2.0,1.0,0.0,0.0,3.0,1
+Cat,Mixed,Domestic Medium Hair,Black,Gray,Kuala Lumpur,1.0,1.0,1.0,2.0,2.0,2.0,1.0,5.0,0.0,0.0,14.0,1
+Dog,Female,Mixed Breed,Brown,Gray,Selangor,3.0,2.0,1.0,1.0,1.0,2.0,1.0,2.0,0.0,0.0,2.0,1
+Cat,Female,Domestic Long Hair,Black,White,Selangor,1.0,3.0,3.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,9.0,1
+Dog,Male,Poodle,Cream,NoColor,Kuala Lumpur,48.0,1.0,3.0,1.0,1.0,1.0,2.0,1.0,0.0,0.0,6.0,1
+Dog,Male,Australian Kelpie,Brown,NoColor,Pahang,1.0,2.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,2.0,1
+Dog,Female,Mixed Breed,Brown,NoColor,Pulau Pinang,24.0,3.0,1.0,1.0,1.0,1.0,1.0,1.0,50.0,0.0,4.0,0
+Cat,Male,Domestic Short Hair,Gray,White,Pahang,2.0,2.0,1.0,1.0,2.0,2.0,1.0,1.0,0.0,0.0,3.0,1
+Dog,Female,Labrador Retriever,Black,Yellow,Kedah,1.0,2.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,1.0,1
+Dog,Female,Boxer,Brown,White,Pulau Pinang,10.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,2.0,0
+Dog,Female,Mixed Breed,Black,Brown,Pulau Pinang,2.0,2.0,2.0,2.0,2.0,2.0,1.0,1.0,20.0,0.0,1.0,1
+Cat,Female,Domestic Short Hair,Golden,Yellow,Selangor,2.0,1.0,1.0,2.0,2.0,2.0,1.0,1.0,50.0,0.0,0.0,0
+Cat,Female,Ocicat,Gray,NoColor,Selangor,5.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0,1
+Dog,Mixed,German Shepherd Dog,Black,Golden,Selangor,1.0,2.0,2.0,2.0,2.0,2.0,1.0,4.0,50.0,0.0,4.0,1
+Dog,Female,Mixed Breed,Black,White,Selangor,1.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,6.0,1
+Dog,Female,Mixed Breed,White,NoColor,Perak,24.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,4.0,0
+Dog,Male,Mixed Breed,Black,Brown,Selangor,1.0,2.0,1.0,2.0,1.0,2.0,1.0,1.0,0.0,0.0,11.0,1
+Dog,Male,Golden Retriever,Golden,NoColor,Kuala Lumpur,77.0,2.0,2.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,4.0,1
+Cat,Female,Domestic Short Hair,Brown,NoColor,Selangor,2.0,2.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,2.0,1
+Cat,Female,Domestic Short Hair,Black,Gray,Selangor,2.0,1.0,2.0,2.0,1.0,2.0,1.0,2.0,100.0,0.0,10.0,1
+Dog,Female,Mixed Breed,Black,NoColor,Kuala Lumpur,2.0,2.0,1.0,2.0,1.0,2.0,1.0,1.0,0.0,0.0,3.0,1
+Dog,Male,Mixed Breed,Brown,NoColor,Kuala Lumpur,3.0,3.0,1.0,2.0,2.0,3.0,1.0,1.0,0.0,0.0,3.0,1
+Cat,Male,Domestic Short Hair,Black,Brown,Selangor,2.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,70.0,0.0,1.0,1
+Dog,Female,Mixed Breed,Brown,NoColor,Pulau Pinang,2.0,1.0,1.0,1.0,3.0,2.0,1.0,1.0,0.0,0.0,3.0,0
+Dog,Female,Mixed Breed,Brown,NoColor,Kuala Lumpur,3.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,4.0,1
+Cat,Female,Tabby,Black,Brown,Kuala Lumpur,3.0,2.0,2.0,2.0,1.0,2.0,1.0,2.0,0.0,0.0,6.0,1
+Cat,Male,Domestic Medium Hair,Black,Gray,Kuala Lumpur,4.0,2.0,2.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,10.0,0
+Cat,Female,Domestic Medium Hair,Black,Gray,Kuala Lumpur,4.0,2.0,2.0,1.0,1.0,1.0,1.0,2.0,0.0,0.0,19.0,0
+Dog,Male,Poodle,Golden,NoColor,Selangor,13.0,1.0,3.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,4.0,1
+Cat,Male,Domestic Short Hair,Brown,White,Perak,6.0,1.0,1.0,2.0,1.0,2.0,1.0,1.0,0.0,0.0,5.0,0
+Dog,Female,Mixed Breed,Brown,White,Selangor,2.0,2.0,3.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,1.0,1
+Dog,Female,Mixed Breed,Black,White,Kuala Lumpur,6.0,2.0,1.0,3.0,3.0,3.0,2.0,1.0,0.0,0.0,1.0,1
+Cat,Mixed,Domestic Short Hair,Brown,White,Kuala Lumpur,1.0,2.0,1.0,2.0,1.0,2.0,1.0,3.0,0.0,0.0,7.0,1
+Cat,Mixed,Domestic Short Hair,Black,Yellow,Kuala Lumpur,2.0,2.0,1.0,2.0,1.0,2.0,1.0,2.0,0.0,0.0,4.0,1
+Cat,Male,Domestic Medium Hair,Black,White,Selangor,3.0,2.0,2.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,5.0,1
+Dog,Female,Mixed Breed,Cream,NoColor,Selangor,48.0,3.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,2.0,1
+Dog,Female,Silky Terrier,Golden,Gray,Selangor,120.0,1.0,2.0,3.0,3.0,3.0,1.0,1.0,0.0,0.0,1.0,1
+Cat,Male,Domestic Long Hair,Black,Brown,Selangor,3.0,2.0,2.0,1.0,1.0,2.0,1.0,2.0,150.0,0.0,20.0,0
+Cat,Female,Domestic Short Hair,Brown,Yellow,Selangor,2.0,2.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.0,11.0,0
+Dog,Male,Schnauzer,Gray,NoColor,Selangor,96.0,1.0,2.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,1.0,1
+Dog,Male,Mixed Breed,Black,Brown,Selangor,2.0,2.0,1.0,3.0,3.0,2.0,1.0,1.0,0.0,0.0,1.0,1
+Cat,Female,Domestic Medium Hair,Brown,Golden,Kuala Lumpur,3.0,2.0,2.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,1.0,1
+Dog,Male,Golden Retriever,Brown,Yellow,Selangor,60.0,2.0,2.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,5.0,1
+Dog,Male,Chihuahua,Cream,White,Selangor,12.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,50.0,0.0,3.0,1
+Dog,Mixed,Mixed Breed,Black,Brown,Johor,0.0,2.0,2.0,2.0,3.0,2.0,1.0,6.0,0.0,0.0,1.0,1
+Dog,Female,Mixed Breed,Brown,NoColor,Kuala Lumpur,3.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,4.0,0
+Dog,Male,Mixed Breed,Black,White,Selangor,3.0,3.0,2.0,1.0,1.0,2.0,1.0,1.0,150.0,0.0,3.0,1
+Cat,Female,Domestic Long Hair,Golden,Gray,Kuala Lumpur,10.0,2.0,3.0,3.0,3.0,3.0,1.0,1.0,0.0,0.0,3.0,1
+Dog,Male,Mixed Breed,Brown,NoColor,Selangor,5.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,5.0,1
+Cat,Female,Domestic Short Hair,Black,White,Kuala Lumpur,3.0,2.0,1.0,3.0,1.0,2.0,1.0,1.0,0.0,0.0,5.0,1
+Dog,Female,German Shepherd Dog,Black,Brown,Selangor,24.0,3.0,2.0,1.0,1.0,1.0,1.0,1.0,500.0,0.0,5.0,1
+Dog,Male,Dachshund,Gray,NoColor,Pulau Pinang,96.0,1.0,3.0,2.0,2.0,2.0,1.0,1.0,20.0,0.0,1.0,1
+Dog,Female,Beagle,Brown,Yellow,Kuala Lumpur,72.0,2.0,1.0,3.0,3.0,3.0,1.0,1.0,0.0,0.0,1.0,1
+Dog,Female,Mixed Breed,Black,White,Selangor,2.0,2.0,2.0,1.0,1.0,2.0,1.0,1.0,0.0,1.0,3.0,1
+Cat,Female,Persian,Gray,NoColor,Sabah,14.0,2.0,2.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,9.0,1
+Dog,Male,Mixed Breed,Brown,White,Johor,5.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,5.0,0
+Dog,Female,Mixed Breed,Black,Brown,Kuala Lumpur,8.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,3.0,1
+Cat,Female,Domestic Short Hair,Black,NoColor,Johor,0.0,1.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,0.0,1
+Dog,Female,Mixed Breed,Black,White,Pulau Pinang,3.0,2.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,2.0,1
+Dog,Female,Labrador Retriever,Brown,NoColor,Pulau Pinang,24.0,3.0,1.0,1.0,1.0,3.0,1.0,1.0,100.0,0.0,2.0,0
+Cat,Mixed,Tabby,Brown,Golden,Selangor,2.0,1.0,1.0,1.0,1.0,2.0,1.0,2.0,0.0,0.0,5.0,1
+Cat,Male,Domestic Short Hair,Black,White,Selangor,1.0,1.0,1.0,2.0,2.0,2.0,2.0,1.0,0.0,0.0,1.0,1
+Dog,Female,Spitz,Black,Brown,Selangor,1.0,2.0,1.0,2.0,1.0,2.0,1.0,1.0,100.0,0.0,6.0,1
+Dog,Female,Mixed Breed,Black,Yellow,Selangor,10.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0,1
+Dog,Female,Mixed Breed,Black,Brown,Selangor,4.0,2.0,1.0,2.0,1.0,3.0,1.0,1.0,0.0,0.0,2.0,0
+Cat,Female,Domestic Short Hair,Gray,NoColor,Perak,6.0,1.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.0,3.0,1
+Cat,Male,Domestic Medium Hair,Gray,NoColor,Selangor,2.0,1.0,2.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,3.0,1
+Cat,Female,Domestic Short Hair,Yellow,White,Selangor,12.0,2.0,1.0,2.0,1.0,2.0,1.0,1.0,0.0,0.0,2.0,0
+Cat,Female,Domestic Short Hair,Gray,NoColor,Selangor,3.0,2.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,1.0,1
+Dog,Female,Labrador Retriever,White,NoColor,Perak,3.0,2.0,2.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,5.0,1
+Dog,Male,Terrier,Brown,NoColor,Selangor,10.0,2.0,2.0,2.0,1.0,2.0,1.0,1.0,0.0,0.0,3.0,1
+Dog,Male,Beagle,Black,Brown,Kuala Lumpur,55.0,2.0,1.0,1.0,1.0,3.0,1.0,1.0,80.0,0.0,1.0,1
+Dog,Mixed,Mixed Breed,Black,Brown,Selangor,1.0,2.0,1.0,2.0,1.0,2.0,1.0,9.0,0.0,0.0,8.0,1
+Dog,Female,Mixed Breed,Black,Brown,Selangor,5.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,5.0,1
+Cat,Male,Domestic Short Hair,Black,White,Kuala Lumpur,12.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0,1
+Dog,Male,Mixed Breed,White,NoColor,Selangor,84.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,6.0,0
+Dog,Female,Jack Russell Terrier,Brown,White,Selangor,36.0,1.0,2.0,3.0,3.0,3.0,1.0,1.0,0.0,0.0,5.0,1
+Dog,Female,Mixed Breed,White,NoColor,Melaka,2.0,2.0,2.0,3.0,3.0,3.0,1.0,1.0,0.0,0.0,1.0,0
+Dog,Male,Shih Tzu,Black,Brown,Johor,36.0,1.0,2.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,0.0,0
+Dog,Male,Jack Russell Terrier,Brown,White,Selangor,24.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,1.0,1
+Dog,Female,Siberian Husky,Gray,White,Pahang,7.0,3.0,2.0,1.0,1.0,2.0,1.0,1.0,1000.0,0.0,5.0,1
+Cat,Female,Domestic Short Hair,Yellow,Gray,Kuala Lumpur,12.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0,1
+Cat,Female,Domestic Short Hair,Brown,Cream,Selangor,1.0,2.0,1.0,2.0,1.0,3.0,1.0,1.0,0.0,0.0,4.0,1
+Dog,Female,Mixed Breed,Brown,Golden,Selangor,49.0,2.0,2.0,1.0,1.0,1.0,1.0,1.0,9.0,0.0,2.0,0
+Cat,Male,Tabby,Golden,NoColor,Selangor,2.0,3.0,2.0,2.0,1.0,2.0,1.0,1.0,0.0,0.0,7.0,1
+Cat,Female,Domestic Short Hair,White,NoColor,Selangor,1.0,1.0,2.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,4.0,1
+Cat,Male,Domestic Short Hair,Black,White,Kuala Lumpur,1.0,2.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,1.0,1
+Dog,Male,Mixed Breed,Black,NoColor,Selangor,1.0,1.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,1.0,1
+Cat,Mixed,Domestic Short Hair,Yellow,White,Johor,1.0,1.0,1.0,2.0,2.0,2.0,1.0,2.0,0.0,0.0,5.0,1
+Dog,Male,Mixed Breed,White,NoColor,Selangor,6.0,2.0,2.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,4.0,0
+Cat,Male,Domestic Short Hair,Brown,White,Selangor,12.0,3.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,5.0,1
+Cat,Female,Tabby,Black,White,Selangor,2.0,2.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,5.0,1
+Cat,Male,Domestic Short Hair,Yellow,NoColor,Kuala Lumpur,2.0,2.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,1.0,1
+Dog,Female,Mixed Breed,Black,Golden,Selangor,1.0,2.0,2.0,2.0,1.0,2.0,1.0,1.0,50.0,0.0,10.0,1
+Cat,Mixed,Domestic Medium Hair,Black,White,Kuala Lumpur,1.0,1.0,2.0,2.0,2.0,2.0,1.0,5.0,0.0,0.0,20.0,1
+Cat,Male,Domestic Short Hair,Brown,Yellow,Kedah,1.0,2.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,4.0,1
+Dog,Mixed,Mixed Breed,Cream,White,Selangor,2.0,3.0,1.0,1.0,1.0,2.0,1.0,3.0,0.0,1.0,8.0,1
+Dog,Mixed,Mixed Breed,Black,White,Kuala Lumpur,2.0,2.0,1.0,2.0,2.0,2.0,1.0,4.0,0.0,0.0,1.0,0
+Cat,Mixed,Domestic Long Hair,Gray,White,Negeri Sembilan,2.0,2.0,3.0,2.0,1.0,2.0,1.0,2.0,0.0,0.0,4.0,1
+Cat,Female,Domestic Short Hair,Black,Gray,Selangor,7.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,6.0,0
+Dog,Male,Pomeranian,Brown,Cream,Selangor,5.0,1.0,2.0,1.0,1.0,2.0,1.0,1.0,500.0,0.0,2.0,1
+Dog,Male,Mixed Breed,Brown,Cream,Selangor,3.0,2.0,1.0,2.0,2.0,2.0,1.0,2.0,0.0,0.0,6.0,1
+Dog,Female,Mixed Breed,Cream,NoColor,Perak,4.0,1.0,3.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,3.0,1
+Dog,Male,Mixed Breed,Brown,NoColor,Selangor,1.0,2.0,2.0,2.0,1.0,2.0,1.0,1.0,0.0,0.0,3.0,1
+Dog,Male,Pomeranian,Yellow,White,Kuala Lumpur,24.0,1.0,2.0,3.0,3.0,3.0,1.0,1.0,0.0,0.0,9.0,1
+Dog,Female,Mixed Breed,Black,Golden,Pulau Pinang,2.0,2.0,1.0,3.0,3.0,3.0,1.0,6.0,0.0,0.0,1.0,0
+Cat,Female,Domestic Medium Hair,Golden,Yellow,Selangor,3.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,5.0,1
+Cat,Male,Domestic Short Hair,Black,White,Selangor,5.0,3.0,1.0,3.0,3.0,3.0,1.0,1.0,0.0,0.0,13.0,1
+Dog,Male,Mixed Breed,Black,NoColor,Selangor,3.0,2.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,5.0,1
+Cat,Male,Domestic Medium Hair,Black,NoColor,Selangor,12.0,1.0,2.0,3.0,3.0,3.0,1.0,1.0,0.0,0.0,1.0,0
+Cat,Male,Domestic Short Hair,White,NoColor,Pahang,2.0,1.0,1.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,1.0,1

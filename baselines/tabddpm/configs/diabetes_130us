@@ -1,14 +1,14 @@
-parent_dir = "configs/adult_census"
-model_save_path = "ckpt/adult_census"
-sample_save_path = "sampled/adult_census"
-real_data_path = "data/adult_census"
+parent_dir = "configs/diabetes_130us"
+model_save_path = "ckpt/diabetes_130us"
+sample_save_path = "sampled/diabetes_130us"
+real_data_path = "data/diabetes_130us"
 
-num_numerical_features = 6
+num_numerical_features = 11
 model_type = "mlp"
-task_type = "binclass"
+task_type = "multiclass"
 
 [model_params]
-num_classes = 2
+num_classes = 3
 is_y_cond = false
 
 [model_params.rtdl_params]
@@ -40,7 +40,7 @@ cat_encoding = "__none__"
 y_policy = "default"
 
 [sample]
-num_samples = 7143
+num_samples = 14708
 batch_size = 1000
 seed = 420
 

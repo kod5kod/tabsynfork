@@ -17,6 +17,7 @@ parser = argparse.ArgumentParser(description='process dataset')
 
 # General configs
 parser.add_argument('--dataname', type=str, default=None, help='Name of dataset.')
+parser.add_argument('--enforce_cat_ratio', type=bool, default=False, help='Enforce categorical ratios between test and train.')
 args = parser.parse_args()
 
 def preprocess_beijing():
@@ -111,14 +112,14 @@ def get_column_name_mapping(data_df, num_col_idx, cat_col_idx, target_col_idx, c
     return idx_mapping, inverse_idx_mapping, idx_name_mapping
 
 
-def train_val_test_split(data_df, cat_columns, num_train = 0, num_test = 0):
+def train_val_test_split(data_df, cat_columns, num_train = 0, num_test = 0, enforce_cat_ratio = False):
     total_num = data_df.shape[0]
     idx = np.arange(total_num)
 
 
     seed = 1234
-
-    while True:
+    
+    if not enforce_cat_ratio:
         np.random.seed(seed)
         np.random.shuffle(idx)
 
@@ -129,19 +130,31 @@ def train_val_test_split(data_df, cat_columns, num_train = 0, num_test = 0):
         train_df = data_df.loc[train_idx]
         test_df = data_df.loc[test_idx]
 
+    
+    else:
+        while True:
+            np.random.seed(seed)
+            np.random.shuffle(idx)
+
+            train_idx = idx[:num_train]
+            test_idx = idx[-num_test:]
 
 
-        flag = 0
-        for i in cat_columns:
-            if len(set(train_df[i])) != len(set(data_df[i])):
-                flag = 1
+            train_df = data_df.loc[train_idx]
+            test_df = data_df.loc[test_idx]
+
+            
+            flag = 0
+            for i in cat_columns:
+                if len(set(train_df[i])) != len(set(data_df[i])):
+                    flag = 1
+                    break
+
+            if flag == 0:
                 break
-
-        if flag == 0:
-            break
-        else:
-            seed += 1
-        
+            else:
+                seed += 1
+            
     return train_df, test_df, seed    
 
 

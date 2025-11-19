@@ -250,14 +250,17 @@ def process_data(name):
     train_df.rename(columns = idx_name_mapping, inplace=True)
     test_df.rename(columns = idx_name_mapping, inplace=True)
 
-    for col in num_columns:
-        train_df.loc[train_df[col] == '?', col] = np.nan
-    for col in cat_columns:
-        train_df.loc[train_df[col] == '?', col] = 'nan'
-    for col in num_columns:
-        test_df.loc[test_df[col] == '?', col] = np.nan
-    for col in cat_columns:
-        test_df.loc[test_df[col] == '?', col] = 'nan'
+    ## Handle missing values??
+    ## Replace '?' with np.nan for numerical columns and 'nan' for categorical columns
+    ## REMOVING THIS, BECAUSE NOT SURE WHAT THIS IS FOR IF WE DON'T HAVE ? IN THE DATA.
+    # for col in num_columns:
+    #     train_df.loc[train_df[col] == '?', col] = np.nan
+    # for col in cat_columns:
+    #     train_df.loc[train_df[col] == '?', col] = 'nan'
+    # for col in num_columns:
+    #     test_df.loc[test_df[col] == '?', col] = np.nan
+    # for col in cat_columns:
+    #     test_df.loc[test_df[col] == '?', col] = 'nan'
 
 
     

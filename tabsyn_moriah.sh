@@ -1,6 +1,6 @@
 #!/bin/bash
 #SBATCH --job-name=tabsynfork_gpu_v2
-#SBATCH --time=14:30:00
+#SBATCH --time=16:30:00
 #SBATCH --mem=256G
 #SBATCH --gres=gpu:l40s:1
 #SBATCH --output=/sci/labs/yuvalb/lee.carlin/output/%x_%j.out

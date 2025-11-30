@@ -1,0 +1,22 @@
+{
+    "name": "mimic",
+    "task_type": "multiclass", 
+    "header": "infer",
+    "column_names": ["GENDER",
+        "ADMISSION_TYPE",
+        "ADMISSION_LOCATION",
+        "INSURANCE",
+        "ETHNICITY",
+        "DIAGNOSIS",
+        "DRUG",
+        "ICD9_CODE",
+        "icu_length_of_stay",
+        "age",
+        "DISCHARGE_LOCATION"],
+    "num_col_idx": [8, 9],
+    "cat_col_idx": [0, 1, 2, 3, 4, 5, 6, 7],
+    "target_col_idx": [10],
+    "file_type": "csv",
+    "data_path": "/sci/labs/yuvalb/lee.carlin/tabular_datasets/mimic/mimic_train.csv",
+    "test_path": null
+}

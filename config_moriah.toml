@@ -1,7 +1,7 @@
 
 
-dataset_name = "diabetes_130us" 
-target_col_name = "readmitted"
+dataset_name = "petfinder_tab" 
+target_col_name = "is_adopted"
 prediction_task = "binary_classification"  # ,regression,  multiclass_classification, binary_classification
 models_list = ["tabsyn","tabddpm","codi","great"] # ["tabsyn","tabddpm","codi","great"]
 runs = ['A','B','C']

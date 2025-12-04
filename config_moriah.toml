@@ -2,7 +2,7 @@
 
 dataset_name = "diabetes_130us" 
 target_col_name = "readmitted"
-prediction_task = "multiclass_classification"  # ,regression,  multiclass_classification, binary_classification
+prediction_task = "binary_classification"  # ,regression,  multiclass_classification, binary_classification
 models_list = ["tabsyn","tabddpm","codi","great"] # ["tabsyn","tabddpm","codi","great"]
 runs = ['A','B','C']
 date = "20251113"  # yyyymmdd

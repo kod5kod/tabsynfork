@@ -1,6 +1,6 @@
 {
     "name": "diabetes_130us",
-    "task_type": "multiclass", 
+    "task_type": "binclass", 
     "header": "infer",
     "column_names": ["race",
         "gender",

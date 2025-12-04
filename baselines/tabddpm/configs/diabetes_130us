@@ -5,10 +5,10 @@ real_data_path = "data/diabetes_130us"
 
 num_numerical_features = 11
 model_type = "mlp"
-task_type = "multiclass"
+task_type = "binclass"
 
 [model_params]
-num_classes = 3
+num_classes = 2
 is_y_cond = false
 
 [model_params.rtdl_params]

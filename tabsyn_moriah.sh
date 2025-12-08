@@ -6,14 +6,14 @@
 #SBATCH --output=/sci/labs/yuvalb/lee.carlin/output/%x_%j.out
 #SBATCH --killable 
 
-jobid=%j
-echo "Job $jobid Started"
-source /etc/profile.d/huji-lmod.sh
+echo "Job $SLURM_JOB_ID Started"
+
 echo "Loading nvidia module"
+source /etc/profile.d/huji-lmod.sh
 module load nvidia
 
-source  ~/.zshrc
 echo "Activating tabsyn environment"
+source  ~/.zshrc
 micromamba activate tabsyn
 
 echo "Running tabsyn_executer.py"

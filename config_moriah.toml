@@ -1,7 +1,6 @@
 
-
-dataset_name = "petfinder_tab" 
-target_col_name = "is_adopted"
+dataset_name = "cdc_diabetes" 
+target_col_name = "Diabetes_binary"
 prediction_task = "binary_classification"  # ,regression,  multiclass_classification, binary_classification
 models_list = ["tabsyn","tabddpm","codi","great"] # ["tabsyn","tabddpm","codi","great"]
 runs = ['A','B','C']
@@ -19,4 +18,4 @@ output_path = "/sci/labs/yuvalb/lee.carlin/synthetics"
 moriah_node_types = ["catfish","salmon","goldfish","dogfish","glacier"]
 
 ## petfinder_tab (is_adopted), credit_taiwan (default), adult_census (is_high_income), 
-##  diabetes_130us (readmitted)
+##  diabetes_130us (readmitted),  cdc_diabetes (Diabetes_binary)

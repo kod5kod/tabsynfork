@@ -6,10 +6,11 @@
 #SBATCH --output=/sci/labs/yuvalb/lee.carlin/output/%x_%j.out
 #SBATCH --killable 
 
-echo "Job $j Started"
+jobid=%j
+echo "Job $jobid Started"
 source /etc/profile.d/huji-lmod.sh
-# echo "Loading nvidia module"
-# module load nvidia
+echo "Loading nvidia module"
+module load nvidia
 
 source  ~/.zshrc
 echo "Activating tabsyn environment"

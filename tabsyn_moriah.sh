@@ -6,14 +6,19 @@
 #SBATCH --output=/sci/labs/yuvalb/lee.carlin/output/%x_%j.out
 #SBATCH --killable 
 
+echo "Job $j Started"
 source /etc/profile.d/huji-lmod.sh
-module load nvidia
+# echo "Loading nvidia module"
+# module load nvidia
 
 source  ~/.zshrc
+echo "Activating tabsyn environment"
 micromamba activate tabsyn
 
+echo "Running tabsyn_executer.py"
 python3 /sci/labs/yuvalb/lee.carlin/repos/tabsynfork/tabsyn_executer.py 
 
+echo "Job Ended"
 # python3 /sci/labs/yuvalb/lee.carlin/repos/tabsynfork/main.py --dataname petfinder_tab --method tabddpm --mode train
 # python3 /sci/labs/yuvalb/lee.carlin/repos/tabsynfork/main.py --dataname petfinder_tab --method tabddpm --mode sample --sample_size 2249   
 

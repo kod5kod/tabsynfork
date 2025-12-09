@@ -124,13 +124,13 @@ def get_args():
     parser.add_argument("--beta_T", type=float, default=0.02, help="end beta value")
     parser.add_argument("--lr_con", type=float, default=2e-03, help="target learning rate")
     parser.add_argument("--lr_dis", type=float, default=2e-03, help="target learning rate")
-    parser.add_argument("--total_epochs_both", type=int, default=10000, help="total training steps")  # codi
+    parser.add_argument("--total_epochs_both", type=int, default=5000, help="total training steps")  # codi #10000
     parser.add_argument("--grad_clip", type=float, default=1.0, help="gradient norm clipping")
     parser.add_argument("--parallel", action="store_true", help="multi gpu training")
 
     # Sampling
-    parser.add_argument("--sample_step", type=int, default=2000, help="frequency of sampling")
-    parser.add_argument("--sample_size", type=int, default=2000, help="number of samples to generate")
+    parser.add_argument("--sample_step", type=int, default=4096, help="frequency of sampling") #2000
+    parser.add_argument("--sample_size", type=int, default=4096, help="number of samples to generate") #2000
 
     # Continuous diffusion model
     parser.add_argument(

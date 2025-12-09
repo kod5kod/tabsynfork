@@ -2,9 +2,9 @@
 dataset_name = "cdc_diabetes" 
 target_col_name = "Diabetes_binary"
 prediction_task = "binary_classification"  # ,regression,  multiclass_classification, binary_classification
-models_list = ["tabsyn","tabddpm","codi","great"] # ["tabsyn","tabddpm","codi","great"]
-runs = ['A','B','C']
-date = "20251113"  # yyyymmdd
+models_list = ["tabsyn",] # ["tabsyn","tabddpm","codi","great"]
+runs = ['A','B',]
+date = "20251114"  # yyyymmdd
 
 
 [local]

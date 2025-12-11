@@ -18,4 +18,4 @@ output_path = "/sci/labs/yuvalb/lee.carlin/synthetics"
 moriah_node_types = ["catfish","salmon","goldfish","dogfish","glacier"]
 
 ## petfinder_tab (is_adopted), credit_taiwan (default), adult_census (is_high_income), 
-##  diabetes_130us (readmitted),  cdc_diabetes (Diabetes_binary)
+##  diabetes_130us (readmitted),  cdc_diabetes (Diabetes_binary), home_credit (TARGET)

@@ -95,7 +95,7 @@ def get_args():
 
     """ configs for GReaT """
 
-    parser.add_argument("--bs", type=int, default=128, help="(Maximum) batch size") # = 16 
+    parser.add_argument("--bs", type=int, default=16, help="(Maximum) batch size") # = 16 
 
     """ configs for CoDi """
 

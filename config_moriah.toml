@@ -1,8 +1,8 @@
 
-dataset_name = "cdc_diabetes" 
-target_col_name = "Diabetes_binary"
-prediction_task = "binary_classification"  # ,regression,  multiclass_classification, binary_classification
-models_list = ["tabsyn",] # ["tabsyn","tabddpm","codi","great"]
+dataset_name = "mimic" 
+target_col_name = "DISCHARGE_LOCATION"
+prediction_task = "multiclass_classification"  # ,regression,  multiclass_classification, binary_classification
+models_list = ["tabsyn","tabddpm","codi"] # ["tabsyn","tabddpm","codi","great"]
 runs = ['A','B',]
 date = "20251114"  # yyyymmdd
 
@@ -19,3 +19,4 @@ moriah_node_types = ["catfish","salmon","goldfish","dogfish","glacier"]
 
 ## petfinder_tab (is_adopted), credit_taiwan (default), adult_census (is_high_income), 
 ##  diabetes_130us (readmitted),  cdc_diabetes (Diabetes_binary), home_credit (TARGET)
+## mimic (DISCHARGE_LOCATION multiclass)
